@@ -64,7 +64,7 @@ Add plots such as:
 ---
 
 ## 👤 Author
-- Developed by [Your Name]
+- Made by Adeeb Ahmed
 - GitHub: https://github.com/zam-Adeeb
 
 ---

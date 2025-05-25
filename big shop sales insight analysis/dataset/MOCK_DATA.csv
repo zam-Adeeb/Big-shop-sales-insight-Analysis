@@ -1,0 +1,1001 @@
+sales,product,quantity,total_price,no_of_items_sold,profits,loss,profits_status,loss_status,sales_date,customer_id,product_id,customer_country,customer_postal_code,category,transaction_id,payment_method
+1,Peach Halves (canned),567,1584.04,480,1171.96,3669.77,profitable,low,7/12/2021,1,1,Indonesia,,groceries,1,online payment
+2,Kids' Outdoor Explorer Kit,172,4081.85,591,4425.69,4836.34,loss-making,medium,5/10/2021,2,2,Russia,456144,groceries,2,online payment
+3,Basketball,114,5656.74,455,352.19,-634.79,break-even,high,6/14/2021,3,3,Indonesia,,clothing,3,online payment
+4,Electric Wine Opener,151,4175.66,634,2836.24,-1228.76,break-even,high,8/18/2021,4,4,China,,electronics,4,online payment
+5,Flavored Instant Oatmeal,108,5224.07,847,2043.79,-604.18,break-even,low,1/25/2021,5,5,Peru,,groceries,5,online payment
+6,Lentil Soup,310,2023.85,937,-320.83,3054.64,loss-making,low,1/10/2021,6,6,South Korea,,groceries,6,cash
+7,Blue Corn Tortilla Chips,452,203.9,991,-151.83,2093.24,profitable,low,12/3/2021,7,7,Japan,597-0095,clothing,7,online payment
+8,V-Neck Sweater,671,2511.31,59,323.85,1799.27,loss-making,low,11/20/2021,8,8,China,,groceries,8,credit card
+9,Fitness Resistance Bands Set,780,9965.63,514,2284.84,2716.18,break-even,low,9/12/2021,9,9,Indonesia,,groceries,9,online payment
+10,Organic Spinach,698,803.09,210,4907.29,-945.67,profitable,medium,1/7/2021,10,10,Mexico,60070,groceries,10,cash
+11,Solar Garden Lights,153,8921.66,623,4683.78,-164.52,break-even,medium,8/7/2021,11,11,France,32010 CEDEX,clothing,11,credit card
+12,Cilantro Lime Rice,422,4955.13,484,4794.74,-2155.33,loss-making,high,4/11/2021,12,12,Uzbekistan,,groceries,12,cash
+13,Mediterranean Flatbread,724,8225.03,401,558.89,4615.85,loss-making,high,7/16/2021,13,13,Indonesia,,clothing,13,credit card
+14,Frozen Salmon Filets,957,6621.34,814,2982.98,-193.18,profitable,high,10/26/2021,14,14,Sweden,169 65,electronics,14,online payment
+15,Set of Decorative Storage Bins,814,7682.33,429,3862.46,-4644.61,loss-making,low,12/30/2021,15,15,China,,clothing,15,online payment
+16,Brussels Sprouts,981,4263.81,890,1488.45,-1522.09,profitable,medium,11/21/2021,16,16,China,,electronics,16,cash
+17,Buffalo Stilton Cheese,259,6324.16,436,-684.03,-456.92,loss-making,low,4/27/2021,17,17,Mozambique,,groceries,17,online payment
+18,Ice Pack,760,8069.61,21,2616.49,4411.96,profitable,low,11/26/2021,18,18,South Africa,6511,clothing,18,online payment
+19,Sturdy Bookends,194,6465.11,362,4267.13,-2681.91,profitable,low,6/28/2021,19,19,Colombia,763029,electronics,19,cash
+20,Crispy Potato Tots,96,9533.06,917,55.63,819.2,profitable,medium,11/24/2021,20,20,Philippines,6118,groceries,20,credit card
+21,Pasta (Fusilli),304,7985.69,957,3424.86,-3487.59,profitable,medium,11/2/2021,21,21,Norway,0591,electronics,21,online payment
+22,Cinnamon Roll Protein Bar,455,8788.52,981,4578.33,-3923.9,profitable,high,4/4/2021,22,22,Indonesia,,clothing,22,online payment
+23,Noise-Canceling Headphones,973,7544.35,116,1087.32,-1953.51,profitable,medium,6/24/2021,23,23,Portugal,2600-015,groceries,23,cash
+24,Thai Basil Fried Rice,238,80.44,998,894.78,3303.72,break-even,medium,4/28/2021,24,24,Brunei,,electronics,24,credit card
+25,Pet Hair Removal Brush,882,8274.53,162,3245.09,2766.87,loss-making,medium,9/16/2021,25,25,China,,electronics,25,online payment
+26,Almond Quinoa Salad,346,267.94,125,-627.26,-3803.42,break-even,high,11/13/2021,26,26,Norway,8038,clothing,26,cash
+27,Herbal Garden Starter Kit,226,8395.49,626,-153.46,-698.51,loss-making,low,5/18/2021,27,27,South Africa,8040,electronics,27,credit card
+28,Travel Yoga Mat,197,1721.87,34,-918.45,-2045.79,break-even,high,9/5/2021,28,28,South Africa,1126,electronics,28,cash
+29,Dish Soap Dispenser,517,1783.55,445,927.17,1935.75,profitable,low,6/18/2021,29,29,China,,clothing,29,cash
+30,Cork Yoga Mat,362,3984.97,153,3819.23,4608.09,loss-making,medium,5/16/2021,30,30,China,,clothing,30,online payment
+31,Safety First Aid Kit,949,2083.6,511,368.12,-4302.91,profitable,high,4/19/2021,31,31,Lithuania,56001,groceries,31,credit card
+32,Organic Granola,356,9679.82,176,2168.29,1559.3,profitable,medium,1/3/2021,32,32,Germany,40489,electronics,32,cash
+33,Electric Razor,588,6293.11,341,2994.78,-486.8,profitable,medium,8/13/2021,33,33,Philippines,4228,groceries,33,cash
+34,Stainless Steel BBQ Grill Set,245,6111.58,980,-246.46,1225.86,profitable,high,9/3/2021,34,34,China,,clothing,34,cash
+35,Bamboo Cutting Board Set,354,7709.72,347,2987.73,-8.01,profitable,low,5/23/2021,35,35,Denmark,1121,clothing,35,cash
+36,Solar Garden Lights,511,3957.16,9,3101.96,-1171.18,loss-making,high,1/19/2021,36,36,Sweden,566 24,groceries,36,online payment
+37,Zucchini,554,1055.76,363,4842.71,-1231.14,profitable,medium,3/18/2021,37,37,Russia,633104,electronics,37,online payment
+38,Apple Cinnamon Instant Oatmeal,251,6496.45,638,579.6,-3456.94,break-even,medium,12/21/2021,38,38,Morocco,,clothing,38,online payment
+39,Electric Air Pump,635,9469.31,871,4239.79,-2549.39,profitable,low,6/8/2021,39,39,Macedonia,1228,electronics,39,online payment
+40,Garlic Parmesan Roasted Nuts,678,7193.42,522,-682.14,-150.1,loss-making,high,11/1/2021,40,40,China,,clothing,40,cash
+41,Chia Seeds,257,254.13,285,-675.82,3563.6,profitable,medium,2/8/2021,41,41,Bahamas,,electronics,41,online payment
+42,Ultraviolet Phone Sanitizer,735,9972.85,873,3366.54,-171.49,loss-making,high,11/30/2021,42,42,Finland,85900,electronics,42,online payment
+43,Cheesy Cauliflower Bake,824,3958.37,661,149.24,4737.01,break-even,medium,9/22/2021,43,43,Russia,197755,electronics,43,cash
+44,Mango Chunks,826,2548.16,462,3161.13,3937.52,loss-making,low,1/12/2021,44,44,Sweden,451 32,groceries,44,cash
+45,Herb Garlic Butter,305,4721.14,930,3292.12,402.17,profitable,low,8/8/2021,45,45,China,,electronics,45,cash
+46,Lemon Pepper Seasoning,823,4108.27,824,-531.84,2804.33,break-even,medium,3/11/2021,46,46,Indonesia,,groceries,46,online payment
+47,Pressure Washer Accessories Kit,678,7494.3,342,1150.17,2802.98,profitable,low,2/6/2021,47,47,Brazil,08550-000,clothing,47,online payment
+48,Sea Salt Caramel Brownie,389,2460.88,512,934.03,-3312.45,loss-making,low,12/30/2021,48,48,Philippines,4513,clothing,48,online payment
+49,Fitness Resistance Bands Kit,145,861.17,463,2494.02,-3511.43,profitable,high,5/11/2021,49,49,Brazil,39550-000,clothing,49,online payment
+50,Beef Jerky,125,3426.53,428,3796.23,4205.72,break-even,high,10/25/2021,50,50,Colombia,155028,groceries,50,online payment
+51,Coconut Cream Pie,719,9119.9,657,1709.45,2191.82,profitable,low,12/2/2021,51,51,China,,electronics,51,credit card
+52,Smartphone Stand,992,4847.79,349,2555.67,365.99,loss-making,medium,6/5/2021,52,52,Sweden,828 25,clothing,52,credit card
+53,Savory Mushroom Risotto,90,8647.07,982,2174.66,-3405.43,profitable,low,9/20/2021,53,53,China,,groceries,53,cash
+54,Luxury Rolling Makeup Case,897,2686.31,226,4865.95,1893.85,loss-making,medium,10/26/2021,54,54,Brazil,18480-000,groceries,54,online payment
+55,Mashed Sweet Potatoes,793,6005.99,966,490.19,-3870.31,profitable,medium,2/23/2021,55,55,Russia,396340,clothing,55,credit card
+56,Pizza Stone,752,1754.74,749,1440.79,1162.46,break-even,low,10/23/2021,56,56,Paraguay,,clothing,56,cash
+57,Watering Can with Nozzle,118,7096.65,277,-256.35,-2214.84,loss-making,high,10/25/2021,57,57,Serbia,,clothing,57,cash
+58,Cinnamon Sugar Mix,303,8302.71,809,3808.61,855.14,loss-making,low,7/25/2021,58,58,Russia,366702,groceries,58,online payment
+59,Granola Clusters,792,1314.86,582,1146.02,1485.62,break-even,medium,2/27/2021,59,59,Argentina,9400,clothing,59,online payment
+60,Acoustic Guitar,306,8743.04,568,636.89,-4053.05,loss-making,high,4/22/2021,60,60,Philippines,2442,groceries,60,online payment
+61,Pesto Pasta Salad,744,6431.98,593,4660.03,2353.86,profitable,high,7/23/2021,61,61,Russia,141707,electronics,61,cash
+62,Travel Shoe Bags Set,653,3314.02,114,1375.46,-2754.42,profitable,high,6/21/2021,62,62,Finland,15880,clothing,62,online payment
+63,Sweet Corn,65,1794.91,966,4800.47,-1017.66,break-even,high,3/13/2021,63,63,China,,electronics,63,online payment
+64,Organic Baby Carrots,907,9280.25,406,244.4,-1900.17,break-even,low,8/20/2021,64,64,Russia,427997,groceries,64,credit card
+65,Vegan Tacos,171,6011.06,40,4938.85,2668.43,loss-making,medium,2/19/2021,65,65,Guatemala,01057,electronics,65,online payment
+66,Nutritional Yeast,862,655.17,766,-781.62,-3370.63,profitable,medium,11/7/2021,66,66,Mauritius,,groceries,66,credit card
+67,Mediterranean Chickpea Salad,641,4553.38,465,1453.89,-272.68,profitable,low,1/22/2021,67,67,France,47912 CEDEX 9,groceries,67,credit card
+68,Pumpkin Ice Cream,965,8276.78,878,4976.99,-2173.34,loss-making,low,12/18/2021,68,68,Bulgaria,7447,electronics,68,online payment
+69,Whole Wheat Bread,521,3016.88,317,560.49,3361.35,break-even,low,11/5/2021,69,69,Indonesia,,groceries,69,credit card
+70,Instant Mashed Potatoes,504,6987.13,831,-252.13,-3635.82,break-even,medium,6/1/2021,70,70,China,,groceries,70,cash
+71,Savory Italian Herbs,399,7558.25,7,534.63,-2886.49,profitable,low,5/22/2021,71,71,Poland,39-323,clothing,71,credit card
+72,Coffee Capsule Dispenser,498,7401.77,41,2885.71,-2346.55,profitable,low,12/22/2021,72,72,China,,electronics,72,cash
+73,Coconut Chips,898,8769.24,369,673.34,116.7,break-even,high,6/3/2021,73,73,Indonesia,,groceries,73,cash
+74,Weighted Jump Rope with Counter,799,5832.96,843,1911.73,-876.55,break-even,low,1/20/2021,74,74,Philippines,1748,electronics,74,online payment
+75,Tailored Blazer,656,9654.23,227,3728.59,-3051.4,loss-making,low,2/18/2021,75,75,Philippines,8717,groceries,75,cash
+76,Vegan Taco Seasoning,705,7274.7,595,-156.99,1292.53,profitable,medium,12/29/2021,76,76,China,,groceries,76,online payment
+77,Electric Toothbrush Holder,101,3608.98,911,-661.82,2907.04,profitable,high,9/4/2021,77,77,Russia,606232,clothing,77,cash
+78,BBQ Jackfruit,59,9196.61,601,4080.12,-2650.56,break-even,low,9/7/2021,78,78,Indonesia,,electronics,78,online payment
+79,Chocolate Chip Muffins,409,8252.63,679,2203.38,-2933.1,loss-making,low,3/12/2021,79,79,South Africa,9450,groceries,79,online payment
+80,Hand Mixer,315,6787.15,802,-773.04,-2448.68,profitable,medium,5/6/2021,80,80,Portugal,2540-170,groceries,80,online payment
+81,Mini Pretzels,511,1109.46,756,542.11,-851.95,profitable,medium,12/17/2021,81,81,China,,clothing,81,cash
+82,Eco-Friendly Cleaning Cloths,850,7612.38,350,4826.77,4565.36,break-even,high,9/17/2021,82,82,Russia,648581,electronics,82,credit card
+83,Buffalo Wing Sauce,296,3115.38,218,484.29,3214.28,profitable,medium,9/18/2021,83,83,Portugal,2615-221,clothing,83,online payment
+84,Peach Slices in Syrup,269,3253.08,451,1366.58,4351.32,profitable,medium,5/25/2021,84,84,Israel,,clothing,84,cash
+85,Stick Vacuums Cleaner,13,778.92,836,173.2,4729.57,profitable,high,4/9/2021,85,85,Portugal,4800-198,electronics,85,online payment
+86,Whisk Set,826,3689.41,928,23.38,-393.59,profitable,medium,8/10/2021,86,86,Indonesia,,clothing,86,cash
+87,Vegan Chickpea Salad,747,7668.8,92,532.07,-2805.07,loss-making,medium,3/8/2021,87,87,Russia,187742,clothing,87,credit card
+88,Summer Tank Dress,60,2614.17,158,2093.58,3057.31,break-even,high,7/22/2021,88,88,France,69245 CEDEX 05,clothing,88,cash
+89,Kettle Chip Variety Pack,773,1591.89,98,3882.81,4799.65,loss-making,low,6/30/2021,89,89,Indonesia,,groceries,89,online payment
+90,Dark Chocolate Almond Butter Cups,358,1864.26,220,1942.93,-1974.81,break-even,low,5/18/2021,90,90,Thailand,46140,electronics,90,online payment
+91,Relaxed Fit Henley Shirt,455,8163.36,868,2998.99,-3027.88,loss-making,low,9/22/2021,91,91,China,,groceries,91,credit card
+92,Sports Bottle,191,669.95,438,4710.88,-1544.87,profitable,high,5/2/2021,92,92,China,,groceries,92,cash
+93,Sliced Provolone Cheese,562,288.64,475,3923.32,-1374.34,profitable,high,9/1/2021,93,93,China,,electronics,93,credit card
+94,Almond Joy Munch Bars,629,1416.5,535,3139.32,1879.18,profitable,high,6/8/2021,94,94,France,94852 CEDEX,electronics,94,online payment
+95,Reusable Silicone Food Storage Bags,286,8328.07,722,3070.78,-905.3,break-even,medium,9/23/2021,95,95,China,,electronics,95,online payment
+96,Outdoor Camping Lantern,119,3128.07,698,2727.71,4293.32,loss-making,medium,10/2/2021,96,96,Colombia,150449,clothing,96,online payment
+97,Zesty Cilantro Lime Dressing,23,3382.3,530,1860.73,1551.95,loss-making,medium,7/20/2021,97,97,United States,87201,clothing,97,online payment
+98,Almond Milk,750,5368.72,19,1551.68,-2101.45,loss-making,high,10/11/2021,98,98,Portugal,4640-580,clothing,98,cash
+99,Caramelized Onion Dip Mix,344,1683.25,697,527.64,3848.87,break-even,medium,11/11/2021,99,99,Mexico,75710,clothing,99,credit card
+100,Folding Table,940,6053.85,364,4243.93,-2870.52,profitable,medium,9/6/2021,100,100,China,,groceries,100,online payment
+101,Chia Seeds,978,9110.74,614,1227.75,587.99,break-even,low,1/28/2021,101,101,Panama,,clothing,101,cash
+102,Honey Roasted Peanuts,469,3571.27,614,-949.48,1747.64,profitable,high,5/19/2021,102,102,France,84147 CEDEX,clothing,102,online payment
+103,Potato Wedge Seasoning,387,9480.29,256,-490.37,-3472.79,loss-making,low,10/2/2021,103,103,Kyrgyzstan,,electronics,103,credit card
+104,Spinach Pizza Rolls,414,5408.0,442,771.74,-1897.73,profitable,high,6/15/2021,104,104,Poland,23-212,groceries,104,online payment
+105,Spinach and Cheese Quiche,302,4884.25,579,2188.58,-968.72,profitable,medium,6/23/2021,105,105,Peru,,clothing,105,cash
+106,Essential White Button-Up,474,7006.62,447,314.17,2161.85,loss-making,high,12/10/2021,106,106,Vietnam,,groceries,106,cash
+107,Kids' Gardening Kit,679,6077.88,304,-102.99,-581.16,loss-making,high,4/30/2021,107,107,France,59208 CEDEX,clothing,107,credit card
+108,Fleece Lined Leggings,655,2375.73,455,3086.12,2194.21,break-even,medium,6/19/2021,108,108,Brazil,37800-000,electronics,108,cash
+109,Fitness Activity Journal,540,3870.02,643,512.63,1537.9,break-even,low,11/25/2021,109,109,Mauritius,,clothing,109,cash
+110,Sushi Roll Kit,746,209.3,824,-41.09,2522.4,profitable,low,5/9/2021,110,110,China,,clothing,110,online payment
+111,Kale Caesar Salad Kit,654,9490.54,228,4168.4,-4400.22,profitable,medium,8/25/2021,111,111,Brazil,35660-000,groceries,111,cash
+112,Fashionable Scarves Set,261,5685.13,932,3201.99,656.83,profitable,medium,3/4/2021,112,112,China,,clothing,112,online payment
+113,Fleece Throw Blanket,381,1417.74,530,2972.1,2172.37,break-even,low,12/27/2021,113,113,Ukraine,,clothing,113,online payment
+114,Stainless Steel Straws,697,9705.85,264,600.29,-4976.34,profitable,medium,5/4/2021,114,114,Germany,51149,electronics,114,credit card
+115,Relaxed Fit Henley Shirt,169,9117.71,783,769.95,2190.7,profitable,low,7/28/2021,115,115,Nigeria,,groceries,115,online payment
+116,Karaoke Microphone,387,4683.13,409,2706.36,4843.12,break-even,medium,9/4/2021,116,116,Argentina,5875,groceries,116,cash
+117,Dishwasher Safe Cutting Board,467,2939.53,994,-559.63,-4628.03,loss-making,low,2/5/2021,117,117,Philippines,3109,clothing,117,credit card
+118,Sea Salt Tortilla Chips,57,3095.46,897,790.39,-4927.63,loss-making,medium,1/10/2021,118,118,Indonesia,,groceries,118,credit card
+119,Hummus,883,9111.35,319,-991.15,1117.03,profitable,low,11/24/2021,119,119,Bulgaria,3053,electronics,119,online payment
+120,Biodegradable Phone Case,823,4636.12,697,-211.92,-3874.77,break-even,high,6/9/2021,120,120,China,,groceries,120,online payment
+121,Dried Mango Slices,103,7631.7,509,3309.49,-3803.62,profitable,low,6/5/2021,121,121,Philippines,6088,electronics,121,credit card
+122,Wrist Support Brace,589,9374.44,747,1901.73,-2243.03,loss-making,medium,10/20/2021,122,122,Indonesia,,clothing,122,credit card
+123,Pressure Washer Accessories Kit,185,6460.49,393,-111.47,1378.7,break-even,low,12/1/2021,123,123,Poland,59-818,clothing,123,credit card
+124,USB Desk Fan,260,9359.03,555,-278.59,-3413.79,loss-making,medium,3/15/2021,124,124,Sudan,,electronics,124,credit card
+125,Tea Infuser Bottle,412,4667.87,44,580.16,1071.2,profitable,high,12/16/2021,125,125,Poland,36-122,clothing,125,credit card
+126,Bluetooth Sleep Headphones,51,3484.24,292,-45.49,-1967.19,profitable,medium,10/30/2021,126,126,Philippines,5411,clothing,126,cash
+127,Raspberry Tart,376,4530.86,14,1286.42,1770.83,loss-making,low,5/30/2021,127,127,France,35164 CEDEX,electronics,127,credit card
+128,Mini Electric Kettle,760,3438.74,119,4643.75,2774.27,profitable,medium,3/2/2021,128,128,Japan,969-1661,clothing,128,online payment
+129,Oven-Baked Sweet Potato Fries,327,9995.02,644,2482.25,-3404.47,break-even,high,1/2/2021,129,129,China,,clothing,129,online payment
+130,Creamy Ranch Dressing,228,5944.56,860,488.62,1698.66,break-even,medium,8/28/2021,130,130,Cuba,,groceries,130,credit card
+131,Antique Style Clock,916,6470.76,300,4593.77,-4236.64,loss-making,medium,3/27/2021,131,131,Estonia,,electronics,131,online payment
+132,Digital Bullet Journal,170,5697.07,842,-300.74,2352.91,break-even,medium,5/11/2021,132,132,Brazil,32450-000,clothing,132,online payment
+133,Smart Light Switch,707,6386.07,946,1498.1,-2990.22,loss-making,low,5/2/2021,133,133,Argentina,3384,groceries,133,cash
+134,Spiced Pumpkin Soup,989,9707.54,843,697.03,-1409.54,break-even,medium,1/3/2021,134,134,China,,clothing,134,credit card
+135,Nutty Quinoa Salad,128,3498.06,643,-49.94,-1702.17,profitable,low,9/2/2021,135,135,Sri Lanka,22200,groceries,135,cash
+136,Golf Polo Shirt,686,9289.38,732,1970.85,4658.08,loss-making,medium,7/17/2021,136,136,Ukraine,,groceries,136,credit card
+137,Warm Knit Beanie,3,8624.55,25,-855.3,-2566.7,profitable,medium,1/27/2021,137,137,China,,groceries,137,cash
+138,Multifunctional Pocket Tool,889,7520.48,571,2646.93,3273.09,profitable,high,12/16/2021,138,138,Philippines,6725,groceries,138,cash
+139,Blackberry Compote,815,6736.73,971,1975.89,547.4,break-even,medium,3/1/2021,139,139,Sweden,661 31,electronics,139,credit card
+140,Creamy Ranch Dressing,28,2008.3,849,3535.13,2074.85,loss-making,high,9/27/2021,140,140,France,92901 CEDEX,clothing,140,credit card
+141,Spinach and Cheese Quiche,362,4901.6,442,1380.79,-29.87,loss-making,medium,8/19/2021,141,141,Poland,44-238,electronics,141,credit card
+142,Red Lentil Pasta,109,2767.68,721,776.65,152.29,break-even,low,6/25/2021,142,142,Peru,,clothing,142,cash
+143,Garlic and Herb Cream Cheese,307,9109.36,793,-207.99,3070.0,profitable,low,1/29/2021,143,143,Bolivia,,clothing,143,credit card
+144,Whisk Set,933,6859.97,207,4308.0,2260.09,break-even,low,4/27/2021,144,144,China,,electronics,144,credit card
+145,Luxury Rolling Makeup Case,929,7977.73,182,3113.59,2452.41,loss-making,high,3/31/2021,145,145,Japan,286-0002,electronics,145,credit card
+146,Pasta Primavera,817,1227.0,770,2962.81,2211.47,loss-making,medium,3/3/2021,146,146,Ukraine,,electronics,146,cash
+147,Spinach and Ricotta Ravioli,961,3363.42,94,-149.23,-3534.55,profitable,low,10/20/2021,147,147,Thailand,17120,groceries,147,cash
+148,Home Brewing Starter Kit,705,7454.84,30,3670.07,521.34,profitable,high,8/31/2021,148,148,Angola,,electronics,148,credit card
+149,Cheddar Cheese Crackers,84,8141.69,663,-834.53,1276.38,break-even,medium,1/7/2021,149,149,Poland,40-401,groceries,149,cash
+150,Coconut Water,296,707.75,877,-296.67,-1120.48,profitable,medium,7/10/2021,150,150,China,,electronics,150,credit card
+151,Bock Beer Mustard,289,2419.83,635,3799.64,1147.83,loss-making,high,7/16/2021,151,151,Indonesia,,groceries,151,cash
+152,Foldable Picnic Table,968,7568.95,379,817.3,2002.64,loss-making,high,11/17/2021,152,152,Philippines,4201,groceries,152,online payment
+153,Pressure Washer Accessories Kit,518,2540.04,424,1691.14,1943.48,loss-making,low,5/20/2021,153,153,Poland,55-093,electronics,153,cash
+154,Pomegranate Juice,249,7069.36,542,2776.53,-160.47,break-even,medium,12/13/2021,154,154,Philippines,5516,clothing,154,cash
+155,Frozen Broccoli,18,7872.7,40,8.44,4112.8,loss-making,high,2/24/2021,155,155,China,,clothing,155,online payment
+156,Honey Wheat Pretzels,75,4712.43,379,4671.23,-4040.28,loss-making,medium,8/8/2021,156,156,China,,electronics,156,online payment
+157,Lemon Herb Chicken,911,5610.09,762,1092.78,-1742.5,loss-making,high,1/1/2021,157,157,Macedonia,1440,electronics,157,online payment
+158,Smart Light Bulbs,844,8132.82,909,3674.25,2566.1,profitable,medium,8/28/2021,158,158,China,,clothing,158,cash
+159,Ice Cream Scoop,326,4263.25,784,2121.38,-2889.58,profitable,high,10/25/2021,159,159,Russia,175320,groceries,159,credit card
+160,Salt and Pepper Grinder Set,986,6472.48,164,3380.16,1988.87,break-even,high,4/20/2021,160,160,Ireland,Y34,clothing,160,credit card
+161,Kids' Activity Book,286,4261.83,393,1752.11,-3794.52,profitable,low,5/19/2021,161,161,Russia,673377,electronics,161,cash
+162,Pear and Gorgonzola Salad,105,6825.71,582,1069.66,-3523.94,break-even,medium,11/29/2021,162,162,Sweden,281 43,groceries,162,cash
+163,DIY Lip Balm Kit,3,8239.81,7,-369.41,-1489.69,profitable,high,8/16/2021,163,163,Philippines,6547,clothing,163,cash
+164,Vegan Protein Powder,419,668.95,423,-117.06,-4339.75,loss-making,low,10/15/2021,164,164,Philippines,5504,electronics,164,online payment
+165,Cream Cheese,315,8535.03,993,-319.51,2240.63,loss-making,medium,10/14/2021,165,165,China,,clothing,165,cash
+166,Ginger Turmeric Tea,436,8814.63,505,509.48,1731.89,profitable,high,7/22/2021,166,166,China,,clothing,166,credit card
+167,Whole Grain Cereal,280,5742.82,144,617.38,-1166.52,profitable,medium,9/3/2021,167,167,Indonesia,,clothing,167,online payment
+168,Smart Wi-Fi Camera,850,1988.9,616,4466.1,3176.21,profitable,medium,2/5/2021,168,168,Russia,357560,electronics,168,credit card
+169,Fleece Throw Blanket,318,1276.46,478,2459.21,-3717.46,profitable,medium,8/19/2021,169,169,Philippines,6807,groceries,169,online payment
+170,LED Christmas Lights,561,417.31,232,4322.25,-3375.72,profitable,high,7/27/2021,170,170,Colombia,250618,groceries,170,credit card
+171,Peanut Butter Filled Pretzels,76,7616.91,153,2064.11,3716.46,loss-making,medium,7/21/2021,171,171,Greece,,electronics,171,online payment
+172,Savory Oatmeal,941,5635.64,491,1635.87,208.18,break-even,medium,8/24/2021,172,172,China,,electronics,172,cash
+173,Organic Cucumber,174,925.14,239,1193.0,-3748.02,loss-making,high,4/4/2021,173,173,Philippines,4425,clothing,173,online payment
+174,Lentils,777,6597.67,659,4400.55,-3957.35,profitable,medium,1/11/2021,174,174,Brazil,13200-000,electronics,174,cash
+175,Mini Pretzels,130,7702.54,960,2175.33,2068.64,profitable,high,8/14/2021,175,175,Indonesia,,clothing,175,cash
+176,Creamy Ranch Dressing,520,1868.96,782,3191.03,2280.65,loss-making,medium,10/18/2021,176,176,Russia,356020,clothing,176,cash
+177,Kids Tablet,586,8452.28,495,2524.05,-2767.89,loss-making,medium,1/11/2021,177,177,Kazakhstan,,electronics,177,credit card
+178,Plaid Flannel Shirt,435,9629.38,979,1617.17,1194.19,loss-making,low,2/24/2021,178,178,China,,groceries,178,credit card
+179,Pita Bread,21,6697.82,968,-707.79,-3221.17,loss-making,low,11/25/2021,179,179,Comoros,,groceries,179,credit card
+180,Lentil Soup,807,3992.24,399,-712.14,4182.93,loss-making,low,4/22/2021,180,180,United States,50393,groceries,180,cash
+181,Pasta Primavera Kit,706,5526.81,179,-793.37,4485.13,loss-making,medium,9/25/2021,181,181,Greece,,clothing,181,online payment
+182,Cucumber Lime Sparkling Water,56,3765.86,466,-450.82,2460.11,break-even,low,8/13/2021,182,182,South Africa,4492,electronics,182,credit card
+183,Bodyweight Resistance Bands,495,2096.64,824,4012.87,2475.29,loss-making,high,2/28/2021,183,183,Indonesia,,groceries,183,credit card
+184,Vanilla Bean Greek Yogurt,718,2652.07,956,-932.13,3316.48,loss-making,high,2/17/2021,184,184,China,,groceries,184,credit card
+185,Garam Masala Spice Blend,382,3312.97,471,835.38,3229.03,break-even,high,1/12/2021,185,185,Indonesia,,clothing,185,credit card
+186,Chili Powder,711,4891.66,988,129.14,3304.79,profitable,high,4/30/2021,186,186,Sri Lanka,43000,electronics,186,cash
+187,Chocolate Raspberry Tart,562,5196.48,934,4365.87,-4205.44,break-even,high,3/31/2021,187,187,Honduras,,electronics,187,credit card
+188,Apple Cinnamon Oatmeal,485,9040.16,727,190.85,3127.0,loss-making,high,2/13/2021,188,188,Poland,56-300,groceries,188,online payment
+189,Stainless Steel Straws,4,3165.63,808,1254.47,1807.09,loss-making,high,7/22/2021,189,189,Philippines,2612,clothing,189,credit card
+190,Compact Digital Camera,468,171.88,157,3876.13,206.25,break-even,high,5/16/2021,190,190,Colombia,250437,electronics,190,cash
+191,Lentil Soup,23,2454.01,995,-945.71,194.85,profitable,high,8/3/2021,191,191,Philippines,7036,groceries,191,cash
+192,Foot Massager,56,8103.21,324,3018.98,4849.04,profitable,high,7/6/2021,192,192,South Africa,2525,clothing,192,credit card
+193,Classic BBQ Sauce,260,441.63,506,694.68,370.96,break-even,medium,12/14/2021,193,193,Sweden,504 75,clothing,193,credit card
+194,Tandoori Chicken Skewers,70,7918.58,195,807.37,130.35,loss-making,low,4/24/2021,194,194,Brazil,12570-000,groceries,194,credit card
+195,Herb Garden Planter Box,408,1499.88,601,-993.54,-4610.95,break-even,high,7/8/2021,195,195,Brazil,89108-000,groceries,195,credit card
+196,Almond Joy Snack Bars,454,2532.79,546,404.34,-4205.96,profitable,low,8/10/2021,196,196,Bangladesh,1341,electronics,196,credit card
+197,Savory Quinoa Pudding,714,3076.39,531,2732.78,-1557.59,profitable,medium,4/25/2021,197,197,Indonesia,,electronics,197,online payment
+198,Skincare Set,295,8012.98,267,3825.42,-191.48,profitable,medium,10/8/2021,198,198,China,,groceries,198,credit card
+199,Italian Sausage and Peppers,178,7567.6,155,4661.07,699.41,loss-making,high,5/24/2021,199,199,Venezuela,,clothing,199,online payment
+200,Pesto Pasta Sauce,420,660.14,213,2603.18,-49.36,break-even,low,3/18/2021,200,200,France,35538 CEDEX,groceries,200,online payment
+201,Halloween Decoration Set,641,2201.09,897,3743.17,2808.42,profitable,medium,8/22/2021,201,201,Thailand,13260,clothing,201,credit card
+202,Plant-Based Cookbook,886,9778.97,954,729.27,-4075.33,loss-making,high,8/15/2021,202,202,Brazil,77800-000,groceries,202,cash
+203,Apple Pie Filling,660,488.17,487,4173.72,-2471.66,break-even,high,11/25/2021,203,203,Japan,374-0079,electronics,203,cash
+204,Coffee Maker,794,5426.89,934,3786.75,-1939.66,break-even,low,4/19/2021,204,204,Japan,527-0087,electronics,204,cash
+205,Pocket Blanket,995,5672.44,437,4164.69,-3128.47,profitable,low,12/30/2021,205,205,Russia,142143,groceries,205,cash
+206,Apple Juice,852,6503.78,140,4022.66,813.89,profitable,high,8/7/2021,206,206,Brazil,17700-000,clothing,206,credit card
+207,Taro Chips,676,9742.04,555,-722.64,4458.38,profitable,high,7/13/2021,207,207,Palestinian Territory,,clothing,207,cash
+208,Organic Sweet Potatoes,670,2312.95,272,4252.92,4217.72,break-even,high,4/24/2021,208,208,Vietnam,,electronics,208,online payment
+209,Puzzle,104,7165.16,610,2677.2,-1857.28,profitable,medium,9/14/2021,209,209,Argentina,4640,electronics,209,cash
+210,Animal Paw Print Soap Dispenser,749,5601.91,905,2247.49,1604.79,profitable,low,1/16/2021,210,210,Bhutan,,electronics,210,online payment
+211,Bicycle Repair Kit,884,4719.97,185,3825.75,4316.29,profitable,high,12/21/2021,211,211,Mongolia,,electronics,211,online payment
+212,Organic Tomato Ketchup,953,1856.59,120,4994.34,1443.58,break-even,high,7/26/2021,212,212,Indonesia,,electronics,212,cash
+213,Classic Caesar Dressing,360,9709.09,281,891.06,-1414.75,profitable,low,2/11/2021,213,213,Brazil,93300-000,clothing,213,credit card
+214,Maple Pecan Pancake Mix,801,591.33,527,4556.11,2234.8,loss-making,high,1/25/2021,214,214,China,,clothing,214,online payment
+215,Pineapple Chunks (canned),586,5947.36,566,-640.36,4892.96,profitable,low,3/31/2021,215,215,Brazil,48110-000,groceries,215,credit card
+216,Sriracha Chili Sauce,576,8318.19,88,1042.71,-4531.58,profitable,medium,12/29/2021,216,216,Portugal,3740-251,clothing,216,credit card
+217,Chopping Board,472,7918.71,474,220.1,3592.24,profitable,low,11/5/2021,217,217,China,,electronics,217,online payment
+218,Two-Tier Fruit Basket,331,8124.51,199,2166.23,-4337.51,profitable,medium,6/2/2021,218,218,China,,groceries,218,cash
+219,Solar String Lights,802,5303.47,887,733.29,-536.02,break-even,high,6/21/2021,219,219,China,,electronics,219,cash
+220,Scented Candle Set,564,1422.19,176,-283.74,-638.77,loss-making,medium,8/11/2021,220,220,Brazil,38530-000,clothing,220,cash
+221,Spinach Artichoke Dip,99,1888.63,928,3463.61,-3133.86,break-even,medium,3/18/2021,221,221,Ireland,E25,electronics,221,online payment
+222,Adjustable Pedicure Footrest,778,8510.81,733,-808.89,-4701.95,profitable,high,1/17/2021,222,222,Greece,,groceries,222,cash
+223,Glass Tea Pot,331,786.07,248,4681.09,3873.19,loss-making,medium,7/31/2021,223,223,China,,clothing,223,credit card
+224,Teriyaki Sauce,28,8416.47,445,2583.9,-4673.02,break-even,low,4/15/2021,224,224,Thailand,95120,electronics,224,online payment
+225,Multi-Functional Rice Cooker,342,2519.79,438,-574.82,-2883.7,profitable,low,6/22/2021,225,225,Mexico,60340,groceries,225,cash
+226,Bamboo Toothbrush,979,3626.49,9,1223.4,-3855.47,break-even,medium,10/20/2021,226,226,Philippines,2714,groceries,226,credit card
+227,LED Christmas Lights,58,8854.31,254,342.65,4683.61,profitable,low,6/22/2021,227,227,Malaysia,70690,electronics,227,online payment
+228,Hand Crank Blender,896,5825.52,542,926.31,4569.47,profitable,medium,2/11/2021,228,228,China,,groceries,228,online payment
+229,Peach Yogurt,630,8911.46,876,-941.29,-2898.61,loss-making,medium,6/18/2021,229,229,China,,electronics,229,credit card
+230,Electric Opener for Jars and Bottles,136,9437.01,848,63.14,2432.26,loss-making,high,11/28/2021,230,230,Thailand,39140,groceries,230,cash
+231,Honey Garlic Shrimp,759,9718.25,406,184.14,-170.19,profitable,medium,8/22/2021,231,231,Indonesia,,groceries,231,online payment
+232,Travel Beach Blanket,344,5182.8,820,2753.91,-3307.91,break-even,low,12/8/2021,232,232,Sweden,777 34,clothing,232,credit card
+233,Handheld Garment Steamer,553,4562.49,103,2736.99,-3791.93,profitable,high,11/29/2021,233,233,China,,clothing,233,credit card
+234,Roasted Red Pepper Dip,696,5563.14,660,2381.67,823.59,loss-making,medium,10/6/2021,234,234,Belarus,,clothing,234,cash
+235,Spicy Thai Chili Sauce,428,2243.65,610,3942.37,3428.66,break-even,medium,10/25/2021,235,235,Poland,15-134,groceries,235,online payment
+236,Skincare Set,884,2334.04,419,4428.25,-768.49,loss-making,high,8/22/2021,236,236,China,,clothing,236,credit card
+237,Lemon Herb Grilled Chicken,52,4.99,204,94.93,-2250.2,profitable,low,3/20/2021,237,237,China,,clothing,237,cash
+238,Reversible Swimming Pool Lounger,377,1078.45,230,3916.03,4692.44,break-even,low,11/23/2021,238,238,United States,39282,electronics,238,cash
+239,Fitness Tracker Watch,11,8758.13,104,-190.19,-1155.12,loss-making,medium,12/24/2021,239,239,Indonesia,,electronics,239,cash
+240,Dill Pickle Chips,655,3722.87,438,3407.0,3070.91,break-even,medium,9/6/2021,240,240,Afghanistan,,groceries,240,credit card
+241,Car Windshield Sun Shade,567,478.62,836,-150.69,2278.7,break-even,medium,11/13/2021,241,241,China,,electronics,241,cash
+242,Cocktail Shaker Set,23,8513.03,900,1236.58,-3820.8,loss-making,high,10/13/2021,242,242,French Polynesia,,electronics,242,online payment
+243,Cabbage,560,4096.88,889,-900.85,-1747.48,profitable,high,4/4/2021,243,243,Indonesia,,clothing,243,cash
+244,Almond Flour Cookies,511,3355.52,65,-100.0,1560.47,profitable,medium,11/11/2021,244,244,China,,clothing,244,online payment
+245,Frozen Salmon Filets,984,6136.98,95,89.93,-4254.31,loss-making,low,6/12/2021,245,245,Philippines,3902,clothing,245,online payment
+246,Nutty Trail Mix,721,9278.38,97,3772.05,249.89,profitable,low,4/25/2021,246,246,United States,92170,groceries,246,online payment
+247,Ultraviolet Phone Sanitizer,109,8670.35,808,828.62,-4013.35,break-even,high,4/30/2021,247,247,Russia,162160,electronics,247,cash
+248,Avocado Oil Mayo,204,8506.88,964,-397.73,3755.94,profitable,medium,11/22/2021,248,248,China,,groceries,248,cash
+249,Dog Collar,666,123.47,652,192.27,876.64,break-even,high,3/12/2021,249,249,Japan,299-0271,clothing,249,online payment
+250,Sushi Rice,53,6774.44,801,1654.67,1551.06,break-even,low,7/12/2021,250,250,Russia,309135,electronics,250,credit card
+251,Garden Hose Reel,754,6025.5,923,2665.38,-2697.46,break-even,medium,3/6/2021,251,251,Belarus,,clothing,251,online payment
+252,Ricotta Cheese,753,7880.44,852,4743.53,3678.49,break-even,medium,10/5/2021,252,252,Ethiopia,,clothing,252,cash
+253,Veggie Lovers Pizza,180,9645.12,280,2929.53,-2823.16,break-even,high,4/19/2021,253,253,Israel,,groceries,253,online payment
+254,Coconut Cream Pie Yogurt,714,8151.49,484,1073.58,4261.27,profitable,low,10/27/2021,254,254,Canada,N3S,groceries,254,cash
+255,Fitness Tracker Band,885,9947.48,663,1954.42,2309.2,break-even,high,10/20/2021,255,255,Sweden,833 34,electronics,255,credit card
+256,Apple Cinnamon Granola,604,595.1,771,-549.78,-4158.28,loss-making,high,12/20/2021,256,256,Germany,80995,clothing,256,cash
+257,Plant-Based Protein Bars,650,2057.33,640,-303.51,-709.0,loss-making,high,8/19/2021,257,257,Philippines,2106,clothing,257,online payment
+258,Portable Air Conditioner,278,9360.99,623,3134.54,1413.81,break-even,high,4/4/2021,258,258,Haiti,,electronics,258,cash
+259,Sweet Pea Hummus,991,8130.19,422,4825.82,-3365.55,break-even,high,9/10/2021,259,259,Russia,157825,electronics,259,online payment
+260,Wall-Mounted Spice Rack,772,5571.93,42,3182.33,-320.8,profitable,medium,9/19/2021,260,260,Nicaragua,,groceries,260,credit card
+261,Electric Opener for Jars and Bottles,998,6286.28,276,2520.55,-3148.54,break-even,medium,1/24/2021,261,261,Germany,24109,groceries,261,credit card
+262,Non-Stick Baking Sheet,859,2715.64,248,67.19,-4277.22,profitable,low,6/2/2021,262,262,Portugal,2825-884,electronics,262,credit card
+263,Warm Wool Sweater,702,5857.34,611,571.9,3019.21,loss-making,high,4/30/2021,263,263,China,,clothing,263,cash
+264,Wireless Car Charger,519,3318.2,879,4218.97,3559.04,profitable,medium,10/11/2021,264,264,Sweden,691 41,groceries,264,cash
+265,Paint By Numbers Kit,15,936.95,204,2350.44,2964.38,loss-making,high,4/9/2021,265,265,Pakistan,93000,groceries,265,cash
+266,Honey Glazed Carrots,414,5625.17,66,1397.53,-3827.05,loss-making,high,9/2/2021,266,266,Brazil,39480-000,clothing,266,credit card
+267,Vegetarian Pizza,540,855.1,135,4053.61,403.51,break-even,high,4/30/2021,267,267,United States,94622,groceries,267,credit card
+268,Chocolate Coconut Granola,303,4058.93,590,4.94,-3741.7,loss-making,low,5/16/2021,268,268,Nigeria,,clothing,268,credit card
+269,Laptop Backpack,396,7503.12,933,689.17,402.07,loss-making,low,1/12/2021,269,269,China,,electronics,269,online payment
+270,Plant-Based Protein Bars,320,1753.36,390,3266.56,-4075.71,profitable,medium,3/12/2021,270,270,China,,electronics,270,cash
+271,Magnetic Spice Jars,269,6028.52,525,3018.81,194.2,profitable,high,12/21/2021,271,271,Russia,216420,clothing,271,online payment
+272,Tabletop Fire Pit,39,8281.39,971,1894.27,2484.12,loss-making,low,1/2/2021,272,272,Philippines,6407,clothing,272,cash
+273,Tomato Basil Soup,326,1115.66,540,4418.27,-1424.03,break-even,medium,3/21/2021,273,273,Indonesia,,electronics,273,cash
+274,Mini Projector,250,2238.14,207,4355.5,-1931.05,profitable,medium,11/23/2021,274,274,Brazil,13000-000,clothing,274,cash
+275,Kale Salad with Lemon Dressing,604,3662.86,846,684.24,-579.96,break-even,high,1/2/2021,275,275,Colombia,735517,groceries,275,cash
+276,Motion Sensor Light,372,606.46,122,2246.93,2501.11,break-even,high,5/28/2021,276,276,China,,groceries,276,online payment
+277,Outdoor Inflatable Pool,628,68.81,151,2006.28,4834.69,profitable,low,3/3/2021,277,277,Eritrea,,clothing,277,credit card
+278,Sriracha Honey Glaze,364,3775.29,6,1967.9,621.77,loss-making,medium,8/21/2021,278,278,United States,27690,clothing,278,credit card
+279,Gaming Headset,925,2390.89,555,4460.24,28.15,loss-making,low,3/21/2021,279,279,United States,97296,groceries,279,cash
+280,Fridge Magnet Set,745,9395.78,225,919.22,4673.53,profitable,high,9/9/2021,280,280,Sweden,751 35,groceries,280,cash
+281,High-Waisted Skirt,843,8528.4,199,-992.0,-281.81,loss-making,high,7/8/2021,281,281,Netherlands,6519,clothing,281,credit card
+282,Kids' Activity Book,664,4808.55,528,741.99,-4803.81,break-even,medium,7/3/2021,282,282,China,,electronics,282,cash
+283,Mashed Sweet Potatoes,868,4592.65,991,-336.56,2168.97,loss-making,high,1/15/2021,283,283,Venezuela,,clothing,283,cash
+284,Honey,57,8786.8,767,3594.93,-4718.77,profitable,low,3/12/2021,284,284,Turkey,34829,electronics,284,credit card
+285,Whole Wheat Pasta,833,1692.86,197,3538.45,4440.77,break-even,medium,10/27/2021,285,285,Indonesia,,groceries,285,credit card
+286,Beet Salad,788,2853.99,41,135.92,777.35,break-even,low,5/1/2021,286,286,Brazil,79400-000,clothing,286,cash
+287,Sesame Ginger Dressing,184,9147.08,85,1908.02,4765.5,loss-making,low,2/26/2021,287,287,Philippines,3525,clothing,287,credit card
+288,First Aid Kit,524,9065.6,175,1205.66,3085.29,profitable,high,2/18/2021,288,288,Poland,35-959,groceries,288,credit card
+289,Reflective Safety Vest,753,8107.27,60,1963.8,4821.03,loss-making,low,4/8/2021,289,289,Brazil,57260-000,clothing,289,online payment
+290,Lightweight Rain Jacket,882,5425.95,275,3922.5,4162.6,profitable,high,10/16/2021,290,290,Bulgaria,4815,groceries,290,cash
+291,Hibiscus Herbal Tea,292,4183.6,324,2020.04,4825.86,break-even,low,6/18/2021,291,291,Russia,309060,electronics,291,cash
+292,Chili Lime Seasoning,745,1833.07,13,1526.56,4940.5,profitable,medium,11/13/2021,292,292,Colombia,680568,clothing,292,cash
+293,Non-Stick Baking Sheets,280,9451.18,642,1749.56,2022.59,loss-making,medium,6/2/2021,293,293,United States,23504,clothing,293,online payment
+294,Smart Doorbell,544,2910.18,970,913.6,1646.44,profitable,high,10/31/2021,294,294,China,,clothing,294,credit card
+295,Ceramic Planter Set,610,8634.87,568,-892.38,-1174.37,break-even,low,5/30/2021,295,295,Ukraine,,electronics,295,credit card
+296,Artisan Flatbreads,815,5454.23,563,4359.18,4520.3,profitable,low,6/15/2021,296,296,Cambodia,,electronics,296,credit card
+297,Organic Almond Flour,439,7300.3,15,1527.06,2832.81,break-even,high,5/26/2021,297,297,Croatia,35220,electronics,297,credit card
+298,Professional Chef Knife,977,2062.34,518,-352.12,-1794.96,break-even,low,11/8/2021,298,298,China,,clothing,298,credit card
+299,Foot Spa Bath Massager,77,754.43,106,2730.19,2424.99,break-even,low,5/3/2021,299,299,China,,clothing,299,credit card
+300,Dark Chocolate Covered Almonds,183,5401.58,968,994.59,1400.34,loss-making,high,8/31/2021,300,300,France,29825 CEDEX 9,groceries,300,cash
+301,Organic Cereal Bars,62,6961.14,4,-843.17,3979.2,loss-making,low,11/20/2021,301,301,Philippines,6346,clothing,301,credit card
+302,Collapsible Water Bottle,849,2795.59,161,2716.54,36.37,break-even,medium,2/24/2021,302,302,Yemen,,electronics,302,cash
+303,Caramelized Onion Dip Mix,385,756.88,396,1884.16,-42.61,break-even,high,8/15/2021,303,303,Indonesia,,clothing,303,online payment
+304,Ergonomic Gaming Chair,887,8109.77,648,1820.97,-3707.4,loss-making,medium,12/3/2021,304,304,China,,electronics,304,cash
+305,Tomato Sauce,496,5629.03,432,4360.71,2028.4,profitable,low,5/3/2021,305,305,Peru,,electronics,305,online payment
+306,Rustic Italian Bread,363,3328.78,333,123.12,1004.82,break-even,high,1/11/2021,306,306,Vietnam,,groceries,306,cash
+307,Savory Quinoa Pudding,705,2212.52,971,3702.04,-1636.28,break-even,medium,5/2/2021,307,307,Macedonia,1219,clothing,307,cash
+308,Banana Nut Muffins,895,7182.91,97,3599.34,-2089.19,profitable,high,10/29/2021,308,308,Philippines,6129,clothing,308,cash
+309,Camping Tarp,501,4075.25,369,1483.56,-2234.37,profitable,high,3/25/2021,309,309,Argentina,1862,clothing,309,credit card
+310,Training Soccer Ball,385,6758.11,999,-883.37,373.45,profitable,high,12/15/2021,310,310,Nigeria,,groceries,310,online payment
+311,Rechargeable Battery Organizer,660,5973.64,695,1185.9,-3749.04,profitable,medium,7/1/2021,311,311,France,34545 CEDEX,clothing,311,online payment
+312,Travel Sewing Kit,875,5876.06,28,-163.54,4287.96,break-even,low,5/20/2021,312,312,Thailand,74120,groceries,312,credit card
+313,Honey BBQ Riblets,797,9869.47,470,4758.23,-29.9,loss-making,high,12/13/2021,313,313,China,,clothing,313,credit card
+314,Sriracha Hot Chili Sauce,408,1973.43,900,1135.91,371.76,break-even,high,12/9/2021,314,314,Egypt,,clothing,314,cash
+315,Pepper Jack Cheese Sticks,815,6465.83,333,4579.43,4707.59,profitable,high,10/10/2021,315,315,France,67311 CEDEX,clothing,315,online payment
+316,Dog Training Collar,547,3331.12,536,491.64,-3332.05,loss-making,low,5/19/2021,316,316,Cuba,,groceries,316,credit card
+317,DIY Organic Gardening Kit,510,378.82,671,4729.37,-4078.89,break-even,high,11/4/2021,317,317,Japan,680-1166,groceries,317,online payment
+318,Cucumber,902,7020.3,762,2756.42,2648.95,profitable,medium,3/12/2021,318,318,Indonesia,,clothing,318,credit card
+319,Pork Chops,776,5896.81,293,3970.63,577.39,loss-making,medium,1/17/2021,319,319,Mexico,52060,clothing,319,online payment
+320,Mushrooms,230,8841.15,351,2184.05,-3275.63,profitable,high,4/7/2021,320,320,Latvia,,electronics,320,cash
+321,Spicy Thai Noodles,654,3954.86,200,-751.12,3346.17,profitable,high,3/1/2021,321,321,Portugal,1495-005,clothing,321,online payment
+322,Frozen Berry Medley,204,3336.75,518,141.88,-3097.25,profitable,high,3/25/2021,322,322,China,,groceries,322,credit card
+323,Laptop Sleeve,250,7764.83,138,1802.66,-3115.86,break-even,medium,12/9/2021,323,323,Indonesia,,clothing,323,cash
+324,Chocolate Chip Cookie Dough,592,7217.48,376,-48.13,-4528.07,loss-making,medium,7/6/2021,324,324,Sri Lanka,31000,clothing,324,online payment
+325,Solar Garden Lights,422,8706.12,560,2778.98,-3995.67,loss-making,medium,3/31/2021,325,325,China,,clothing,325,online payment
+326,Chili Con Carne Mix,184,6776.36,292,1083.57,-3783.76,loss-making,medium,7/14/2021,326,326,Philippines,2445,groceries,326,online payment
+327,Dark Chocolate Covered Raisins,523,9910.31,257,-876.36,2166.48,break-even,medium,12/25/2021,327,327,Japan,929-1174,electronics,327,credit card
+328,Organic Blueberries,108,2770.69,474,1232.97,116.62,break-even,low,11/4/2021,328,328,China,,clothing,328,credit card
+329,Car Emergency Kit,763,4332.61,196,-163.48,-2545.97,profitable,medium,2/15/2021,329,329,Brazil,87140-000,electronics,329,cash
+330,Gluten-Free Pancake Mix,889,3583.37,852,577.35,1117.47,break-even,high,6/3/2021,330,330,United States,02114,clothing,330,cash
+331,Bamboo Memory Foam Pillow,432,40.93,360,2575.27,-481.79,break-even,high,12/21/2021,331,331,Croatia,10315,clothing,331,cash
+332,Fitness Jump Rope,143,4740.52,449,1801.42,3616.69,loss-making,low,10/1/2021,332,332,Russia,346020,groceries,332,online payment
+333,Strawberry Fruit Spread,867,811.68,821,-958.93,-139.38,break-even,high,2/20/2021,333,333,Luxembourg,L-5341,electronics,333,cash
+334,Pumpkin Ice Cream,295,7357.51,165,3743.0,-3573.81,break-even,high,1/4/2021,334,334,Iran,,groceries,334,credit card
+335,Roasted Red Pepper Sauce,400,4842.9,403,3365.18,1524.12,break-even,high,2/22/2021,335,335,Luxembourg,L-3755,electronics,335,online payment
+336,Yoga Wheel,16,1633.39,382,2731.95,-1320.7,loss-making,high,7/26/2021,336,336,Uganda,,groceries,336,online payment
+337,Adjustable Kitchen Broom Stand,893,604.97,346,4018.78,-3032.6,profitable,low,1/26/2021,337,337,Palestinian Territory,,groceries,337,online payment
+338,Chipotle Lime Salsa,853,8911.74,885,4036.97,4747.07,loss-making,medium,4/2/2021,338,338,China,,clothing,338,online payment
+339,Honey Butter Popcorn,547,6734.38,701,2080.0,-2288.16,loss-making,medium,10/1/2021,339,339,Poland,11-015,clothing,339,online payment
+340,Watercolor Paint Set,57,7524.77,903,4087.92,3092.0,profitable,medium,1/20/2021,340,340,China,,electronics,340,cash
+341,Glass Water Bottle,349,4473.42,422,3952.18,-11.28,break-even,low,4/12/2021,341,341,Philippines,1808,clothing,341,cash
+342,Lockable Bicycle Chain,731,6763.94,70,2239.81,-3454.92,loss-making,low,7/20/2021,342,342,Portugal,2670-755,groceries,342,online payment
+343,Ultra-Thin Laptop Sleeve,360,1280.43,719,-312.93,-1680.55,profitable,medium,9/20/2021,343,343,Philippines,5307,electronics,343,online payment
+344,Fresh Cilantro,539,7657.18,945,3666.43,-1520.19,loss-making,low,7/1/2021,344,344,Nepal,,groceries,344,credit card
+345,Spicy Italian Sausage,776,1578.28,542,596.78,-2164.86,break-even,high,8/20/2021,345,345,China,,electronics,345,online payment
+346,Ski Goggles,416,5043.24,449,3818.9,3139.23,loss-making,low,8/2/2021,346,346,Dominican Republic,10215,clothing,346,credit card
+347,Cranberry Orange Juice,361,886.85,118,4785.5,-1575.82,break-even,medium,2/14/2021,347,347,Brazil,76600-000,clothing,347,credit card
+348,LED Strip Light Kit,721,5432.53,175,2716.69,-4299.91,profitable,medium,1/23/2021,348,348,Philippines,1717,clothing,348,credit card
+349,Smart Wi-Fi Camera,432,7597.89,495,499.57,-1977.8,break-even,low,12/11/2021,349,349,Madagascar,,groceries,349,cash
+350,Over-the-Door Hooks,801,4686.54,657,2129.55,-3928.07,break-even,medium,4/7/2021,350,350,Malta,ZBG,electronics,350,online payment
+351,Herbal Tea Sampler Box,89,1286.43,204,4047.64,-2623.75,break-even,low,6/7/2021,351,351,Canada,J3L,electronics,351,online payment
+352,Travel Pillow with Memory Foam,313,6535.25,997,993.69,2060.47,profitable,medium,10/12/2021,352,352,Indonesia,,clothing,352,online payment
+353,Adjustable Pet Feeder,519,5281.87,174,-106.27,2026.17,loss-making,high,7/29/2021,353,353,Angola,,electronics,353,credit card
+354,Cinnamon Spiced Almonds,288,502.17,877,4941.51,4375.01,loss-making,medium,1/1/2021,354,354,China,,electronics,354,cash
+355,Spicy Kimchi,348,4743.68,544,3041.17,1723.71,break-even,high,1/18/2021,355,355,Russia,617010,electronics,355,credit card
+356,Induction Cooktop,341,2534.09,164,3256.81,1813.29,loss-making,low,7/8/2021,356,356,China,,groceries,356,online payment
+357,Stainless Steel Grater,987,7045.27,493,932.5,4198.01,profitable,high,3/13/2021,357,357,Brazil,39260-000,clothing,357,credit card
+358,Sweet and Spicy Barbecue Sauce,119,2286.18,717,1790.33,-3713.49,break-even,medium,2/14/2021,358,358,Peru,,clothing,358,cash
+359,Workstation Laptop Stand,793,789.68,120,4409.09,-2902.14,profitable,low,6/23/2021,359,359,Brazil,11750-000,clothing,359,cash
+360,Whole Wheat Pasta,587,9632.3,403,1328.15,-1368.08,break-even,medium,5/1/2021,360,360,France,51039 CEDEX,electronics,360,cash
+361,Honey Garlic Chicken,897,6628.28,508,934.07,-639.82,loss-making,medium,6/16/2021,361,361,China,,electronics,361,cash
+362,Magnetic Phone Car Mount,72,5294.91,279,-859.38,-95.88,loss-making,low,5/11/2021,362,362,United States,78715,electronics,362,online payment
+363,Vegan Mayonnaise,316,8685.77,649,2614.05,-2104.82,break-even,low,5/31/2021,363,363,Colombia,055468,electronics,363,credit card
+364,Asian Noodle Salad Kit,178,1697.04,948,327.39,-4989.63,break-even,low,3/16/2021,364,364,United States,19125,groceries,364,credit card
+365,Berries Medley,234,4478.94,837,420.56,1791.44,profitable,high,7/12/2021,365,365,Philippines,8209,electronics,365,credit card
+366,Watercolor Brush Pens,538,2360.65,578,4760.73,3250.3,profitable,high,1/23/2021,366,366,Paraguay,,electronics,366,cash
+367,Chocolate Mint Cookies,717,9954.21,977,3058.48,3722.33,loss-making,high,8/5/2021,367,367,Nigeria,,clothing,367,credit card
+368,Lentil Vegetable Stew,784,8147.28,735,4127.43,2571.11,loss-making,medium,11/26/2021,368,368,Finland,66301,groceries,368,credit card
+369,Travel Yoga Mat,3,876.32,272,715.65,1822.26,profitable,high,7/21/2021,369,369,Japan,892-0873,electronics,369,online payment
+370,Crispy Rice Treats,494,577.15,39,4360.7,-218.11,profitable,low,2/19/2021,370,370,Afghanistan,,electronics,370,online payment
+371,Quinoa and Kale Salad Kit,823,8077.99,846,4449.3,-4215.59,loss-making,medium,10/31/2021,371,371,Poland,64-061,groceries,371,online payment
+372,Car Vacuum,876,8325.31,526,551.12,3665.76,break-even,medium,9/10/2021,372,372,Brazil,58388-000,clothing,372,credit card
+373,Organic Granola Cereal,294,4152.12,998,1117.03,-335.98,break-even,low,12/5/2021,373,373,Serbia,,clothing,373,credit card
+374,Bicycle Lock,773,3658.6,680,399.07,1703.23,loss-making,medium,8/7/2021,374,374,Brazil,87900-000,electronics,374,online payment
+375,Electric Ice Cream Maker,642,1185.79,594,1705.41,2366.31,break-even,high,5/19/2021,375,375,Vietnam,,electronics,375,online payment
+376,Adjustable Pedicure Footrest,366,2636.66,931,667.88,595.4,break-even,low,4/28/2021,376,376,Nepal,,groceries,376,cash
+377,Classic Minestrone Soup,272,9178.35,533,2299.67,3432.36,loss-making,medium,4/20/2021,377,377,Nicaragua,,groceries,377,credit card
+378,Sliced Olives,198,3739.75,50,1107.81,3009.98,loss-making,high,3/21/2021,378,378,China,,groceries,378,online payment
+379,Spicy Roasted Nuts,460,5871.25,552,2072.41,2402.02,loss-making,medium,8/25/2021,379,379,Brazil,68440-000,electronics,379,credit card
+380,Throw Pillow Covers,480,442.08,540,588.66,3615.64,break-even,low,1/6/2021,380,380,China,,clothing,380,cash
+381,Kale and Quinoa Salad,78,6533.2,759,2783.85,-1713.84,loss-making,medium,1/12/2021,381,381,Kenya,,clothing,381,cash
+382,Coconut Curry Chicken,713,3900.87,277,674.25,4117.55,break-even,low,12/15/2021,382,382,Egypt,,clothing,382,cash
+383,Organic Whole Wheat Flour,188,8530.69,101,4249.08,4587.3,profitable,medium,8/20/2021,383,383,China,,electronics,383,credit card
+384,Freestanding Wine Rack,908,4554.37,329,2446.66,3792.33,loss-making,medium,5/28/2021,384,384,Argentina,3760,clothing,384,online payment
+385,Caraway Rye Bread,921,2394.44,92,757.04,-4817.64,loss-making,medium,6/15/2021,385,385,China,,electronics,385,cash
+386,Digital Wireless Meat Thermometer,877,8731.26,569,2278.65,2148.7,profitable,low,8/17/2021,386,386,Jordan,,electronics,386,online payment
+387,Vegan Chocolate Cake Mix,680,6263.52,510,3842.22,-3906.26,profitable,medium,2/10/2021,387,387,Indonesia,,groceries,387,online payment
+388,Dog Walking Waist Pack,492,1167.3,267,-364.37,3919.08,loss-making,high,10/29/2021,388,388,Argentina,3515,electronics,388,cash
+389,Craft Beer Mustard,639,5948.65,614,1517.09,883.52,loss-making,medium,9/9/2021,389,389,Central African Republic,,groceries,389,online payment
+390,Electric Pressure Cooker,310,3270.72,22,-395.09,-811.96,break-even,low,10/21/2021,390,390,Marshall Islands,96970,electronics,390,online payment
+391,Thai Green Curry Paste,312,571.81,976,3867.63,-987.21,break-even,high,12/7/2021,391,391,China,,electronics,391,cash
+392,Antique Style Clock,590,1017.02,205,4457.74,-4713.19,profitable,low,3/24/2021,392,392,Armenia,,electronics,392,cash
+393,Cheddar Cheese Crackers,676,4168.63,884,1134.21,-362.14,profitable,medium,11/9/2021,393,393,Montenegro,,electronics,393,cash
+394,Whipped Cream Cheese,995,7920.03,959,4585.08,-832.59,break-even,medium,10/11/2021,394,394,Mexico,68145,clothing,394,cash
+395,Travel Document Organizer,209,6326.01,449,4977.36,543.73,break-even,medium,10/2/2021,395,395,Palestinian Territory,,clothing,395,credit card
+396,Portable Air Compressor,627,3638.32,937,-573.01,-4485.09,break-even,low,3/21/2021,396,396,Indonesia,,clothing,396,credit card
+397,Portable Electric Fan,662,1934.4,859,1602.84,-13.87,profitable,low,3/26/2021,397,397,Finland,40951,clothing,397,credit card
+398,Wrap Jumpsuit,565,2743.54,837,4807.93,-26.58,loss-making,low,7/25/2021,398,398,Philippines,6602,groceries,398,cash
+399,Organic Tomato Soup,110,8929.11,248,2791.23,421.24,break-even,low,5/19/2021,399,399,Thailand,66120,electronics,399,credit card
+400,Kids' Gardening Tools Set,523,6717.91,524,3533.94,1687.37,loss-making,high,4/29/2021,400,400,China,,electronics,400,online payment
+401,Wild Rice & Quinoa Mix,354,7466.54,217,-373.34,2219.8,loss-making,low,9/1/2021,401,401,Mali,,groceries,401,cash
+402,Fitness Resistance Bands Set,537,7849.0,274,1017.19,1961.8,profitable,low,2/28/2021,402,402,Portugal,7200-505,electronics,402,cash
+403,Berry Smoothie Mix,934,3810.04,608,3478.35,1591.49,loss-making,medium,2/6/2021,403,403,Dominican Republic,11005,electronics,403,cash
+404,Crispy Potato Tots,274,2947.23,499,1227.85,1817.55,break-even,high,8/3/2021,404,404,Samoa,,clothing,404,cash
+405,Electric Skillet,590,3966.06,616,123.8,-3056.2,profitable,high,7/6/2021,405,405,Brazil,55290-000,groceries,405,credit card
+406,Basil Tomato Soup,14,5571.85,264,-360.95,2045.98,profitable,medium,8/13/2021,406,406,China,,electronics,406,credit card
+407,Automatic Pet Feeder,873,6811.79,840,2973.75,-945.05,loss-making,low,4/21/2021,407,407,Indonesia,,groceries,407,cash
+408,Bamboo Cotton Tank Top,606,8260.97,433,4088.38,602.88,loss-making,low,4/27/2021,408,408,Bulgaria,2259,clothing,408,online payment
+409,Self-Inflating Camping Mattress,845,555.52,302,-240.35,2951.25,profitable,high,5/18/2021,409,409,China,,clothing,409,cash
+410,Olive Oil,667,2794.6,97,2922.04,-3222.55,break-even,medium,5/29/2021,410,410,China,,groceries,410,online payment
+411,Coconut Bowls Set,968,6776.56,461,-227.36,1999.94,loss-making,low,11/14/2021,411,411,Brazil,44220-000,clothing,411,credit card
+412,Bamboo Cotton Tank Top,369,1462.56,725,2242.59,-2096.01,loss-making,low,4/10/2021,412,412,Sri Lanka,91000,electronics,412,cash
+413,Wrap Front Midi Skirt,112,6907.94,132,1615.87,1296.29,break-even,medium,12/5/2021,413,413,Philippines,9201,groceries,413,credit card
+414,Compact Dishwasher,100,7963.05,987,3323.45,1160.7,profitable,high,9/22/2021,414,414,Sweden,178 54,groceries,414,credit card
+415,Puff Pastry,205,5561.64,894,-483.77,-3404.29,profitable,low,8/5/2021,415,415,China,,electronics,415,online payment
+416,Plant Growing Kit,767,2450.72,782,-523.6,2126.06,loss-making,medium,5/10/2021,416,416,Japan,981-3311,electronics,416,online payment
+417,Almond Flour Brownies,160,1344.33,51,1210.59,4257.46,loss-making,high,1/30/2021,417,417,Thailand,30110,electronics,417,cash
+418,Bluetooth Headphones,132,2815.54,22,3048.71,3012.83,loss-making,medium,12/2/2021,418,418,Vietnam,,clothing,418,cash
+419,Honey Garlic Sauce,1,4784.26,427,2637.95,-834.12,loss-making,medium,10/11/2021,419,419,Curacao,,clothing,419,online payment
+420,Heart-Shaped Baking Molds,651,1842.13,156,-372.56,-4588.86,break-even,medium,11/12/2021,420,420,Russia,694440,groceries,420,credit card
+421,Vegan Protein Powder,725,2343.87,476,2260.04,613.5,break-even,high,9/13/2021,421,421,Japan,689-2352,groceries,421,cash
+422,Non-Stick Crepe Pan,952,4716.26,653,4395.77,4065.16,loss-making,low,12/18/2021,422,422,Philippines,2430,groceries,422,cash
+423,Electric Opener for Jars and Bottles,398,1831.9,979,738.67,-2003.67,profitable,medium,9/21/2021,423,423,China,,electronics,423,online payment
+424,Bamboo Cutting Board,519,9844.02,354,23.38,803.31,break-even,high,3/6/2021,424,424,Russia,142152,groceries,424,credit card
+425,Mango Chili Salsa,30,2042.76,77,-900.69,817.67,break-even,low,2/27/2021,425,425,Greece,,groceries,425,online payment
+426,Desk Lamp with USB Port,377,1657.75,316,1824.3,-216.55,break-even,high,10/20/2021,426,426,Philippines,9611,clothing,426,cash
+427,Bike Helmet,147,1123.68,281,2013.46,4807.48,loss-making,medium,10/13/2021,427,427,Indonesia,,groceries,427,online payment
+428,Potting Soil,730,6835.3,593,3659.29,-3265.85,profitable,medium,5/2/2021,428,428,Vietnam,,electronics,428,cash
+429,Garden Kneeler and Seat,32,4539.19,624,4685.67,-4351.76,break-even,medium,7/14/2021,429,429,Malaysia,15517,groceries,429,cash
+430,High-Low Hem Tee,155,6765.33,606,4233.17,822.59,profitable,high,7/4/2021,430,430,China,,electronics,430,online payment
+431,Cherry Almond Protein Bar,279,9713.35,22,4672.99,4319.77,break-even,high,5/7/2021,431,431,Ukraine,,groceries,431,online payment
+432,Electric Toothbrush,251,5505.29,973,2715.11,4482.0,break-even,high,2/21/2021,432,432,Greece,,electronics,432,cash
+433,Carrot and Celery Sticks,677,2864.09,846,-315.38,-3187.21,loss-making,low,9/6/2021,433,433,China,,clothing,433,cash
+434,Sea Salt Caramel Brownie,995,9456.75,547,4759.99,-2104.77,break-even,high,12/20/2021,434,434,Nigeria,,groceries,434,online payment
+435,Vegetable Medley,415,601.58,378,211.31,2524.34,break-even,high,5/31/2021,435,435,China,,electronics,435,cash
+436,Herb-Infused Olive Oil,94,5930.93,412,858.33,-3965.74,profitable,low,5/7/2021,436,436,Democratic Republic of the Congo,,groceries,436,cash
+437,Asian Stir-Fry Kit,51,4230.27,793,313.45,-2161.85,profitable,low,11/14/2021,437,437,Russia,352620,groceries,437,cash
+438,Guitar Tuner,913,4853.11,771,146.0,289.83,profitable,high,3/16/2021,438,438,Tanzania,,electronics,438,credit card
+439,Sweet Potatoes (organic),859,8821.66,432,1934.2,-4147.31,profitable,low,12/8/2021,439,439,Philippines,6211,groceries,439,credit card
+440,Mixed Nuts,723,9939.95,608,-162.95,225.9,profitable,high,11/1/2021,440,440,China,,electronics,440,cash
+441,Vegetable Stir-Fry Kit,464,9970.0,304,2792.0,-1932.59,break-even,low,1/3/2021,441,441,China,,electronics,441,online payment
+442,Ramen Noodle Soup Cups,706,4031.45,485,370.05,-574.3,loss-making,high,12/9/2021,442,442,Israel,,electronics,442,online payment
+443,Peanut Butter Protein Balls,214,1223.87,5,2130.29,2166.57,loss-making,high,8/22/2021,443,443,Portugal,5430-236,clothing,443,online payment
+444,Peach Slices in Syrup,617,8585.84,67,2813.04,-4190.11,profitable,high,12/17/2021,444,444,China,,groceries,444,cash
+445,Smart Water Bottle with Hydration Reminder,789,8072.04,620,4246.73,-3330.86,profitable,low,12/3/2021,445,445,Indonesia,,groceries,445,cash
+446,Wireless Earbuds,633,6429.48,716,3526.33,-4149.29,loss-making,medium,4/3/2021,446,446,Japan,506-2118,groceries,446,cash
+447,Classic Black Trousers,844,1202.77,763,3814.55,582.68,break-even,high,10/12/2021,447,447,Brazil,89280-000,groceries,447,online payment
+448,Savory Breakfast Sausage,880,2279.93,785,-146.06,1361.06,break-even,high,12/7/2021,448,448,North Korea,,clothing,448,cash
+449,Mesh Sports Leggings,593,778.13,689,1671.79,2815.43,break-even,high,3/10/2021,449,449,France,03104 CEDEX,electronics,449,cash
+450,Electric Wax Warmer,962,1563.4,155,3543.49,3897.06,break-even,medium,8/21/2021,450,450,Colombia,473029,groceries,450,cash
+451,Karaoke Microphone,261,2916.58,786,1435.27,3747.99,loss-making,high,9/18/2021,451,451,South Africa,9580,electronics,451,online payment
+452,Strawberry Rhubarb Jam,748,6315.19,800,1721.36,1451.78,break-even,medium,11/26/2021,452,452,China,,groceries,452,online payment
+453,Portable Refrigerator Freezer,142,2985.61,788,381.14,-3739.78,loss-making,high,9/19/2021,453,453,Brazil,92500-000,clothing,453,credit card
+454,Spiced Pumpkin Soup,790,6585.55,959,986.93,635.9,loss-making,high,11/30/2021,454,454,Russia,162811,clothing,454,cash
+455,Underwater Camera,584,7742.61,144,4088.49,4330.51,loss-making,high,11/4/2021,455,455,France,24212 CEDEX,groceries,455,cash
+456,Ricotta Cheese,744,1136.06,66,2879.97,265.67,loss-making,medium,2/13/2021,456,456,Nigeria,,electronics,456,credit card
+457,Blackberry Jam,256,4664.55,453,2009.15,-2307.86,break-even,medium,12/4/2021,457,457,Greece,,clothing,457,online payment
+458,Cotton Pajama Set,217,8624.19,5,1536.77,4204.39,loss-making,medium,10/20/2021,458,458,France,03104 CEDEX,clothing,458,credit card
+459,Raisin Cinnamon Granola,178,3958.2,177,166.73,3379.71,profitable,medium,4/21/2021,459,459,Poland,58-562,electronics,459,cash
+460,Canned Black Beans,536,6258.12,809,526.85,2970.94,loss-making,high,3/24/2021,460,460,Indonesia,,electronics,460,online payment
+461,Golf Putting Green,118,7228.27,856,3433.2,2817.95,profitable,high,5/29/2021,461,461,Poland,32-020,clothing,461,cash
+462,Frozen Mixed Vegetables,412,496.14,917,-903.98,-4358.76,loss-making,low,12/6/2021,462,462,Indonesia,,groceries,462,online payment
+463,High-Quality Yoga Block,228,4250.94,510,4138.19,-559.49,profitable,low,4/24/2021,463,463,Russia,676776,groceries,463,online payment
+464,Interactive Plush Toy,362,262.75,929,788.88,-3899.37,break-even,medium,9/14/2021,464,464,Philippines,4311,clothing,464,credit card
+465,Decorative Throw Blanket,103,2549.47,456,4720.93,2870.61,loss-making,low,9/19/2021,465,465,Israel,,groceries,465,credit card
+466,Bamboo Toothbrush Holder,867,4067.86,961,4477.33,-3632.87,loss-making,low,11/16/2021,466,466,Uruguay,,groceries,466,online payment
+467,Smashed Avocado with Lime,534,3064.38,893,135.39,1659.54,loss-making,high,9/26/2021,467,467,Belarus,,clothing,467,online payment
+468,Chili Powder,731,8164.79,69,2986.49,4445.24,break-even,high,2/9/2021,468,468,Czech Republic,294 21,groceries,468,cash
+469,Puzzle Mat,883,8749.07,789,3210.77,1826.72,profitable,medium,4/21/2021,469,469,Indonesia,,clothing,469,online payment
+470,Banana Chips,409,8756.41,623,3983.9,-4185.32,profitable,low,3/24/2021,470,470,Sweden,745 38,clothing,470,online payment
+471,Ceramic Bakeware Set,985,6807.76,497,3127.29,-1173.45,loss-making,low,11/28/2021,471,471,China,,electronics,471,online payment
+472,Gardening Gloves with Claws,342,7914.83,467,3178.65,646.87,break-even,medium,11/13/2021,472,472,France,69446 CEDEX 03,groceries,472,cash
+473,Pasta Maker Machine,39,7059.83,356,-196.17,-3943.93,loss-making,medium,1/22/2021,473,473,Philippines,4701,groceries,473,online payment
+474,Coconut Bowls Set,884,6029.32,303,3557.24,-4929.33,break-even,medium,11/13/2021,474,474,Sweden,165 60,electronics,474,credit card
+475,Tomato Basil Soup,519,7331.31,673,927.67,3741.86,profitable,high,2/6/2021,475,475,Thailand,77150,clothing,475,cash
+476,Pasta Primavera Kit,789,4013.74,95,4551.42,372.47,profitable,low,1/10/2021,476,476,Bulgaria,3320,groceries,476,cash
+477,Organic Green Apples,704,5533.75,615,749.12,506.16,break-even,medium,10/26/2021,477,477,Sweden,126 41,electronics,477,online payment
+478,Beef Chili,773,3752.14,622,1285.91,-2136.6,loss-making,low,5/17/2021,478,478,France,77504 CEDEX,clothing,478,credit card
+479,Bamboo Bathtub Caddy,111,8525.62,430,1110.38,3426.68,break-even,high,10/1/2021,479,479,Brazil,44880-000,clothing,479,online payment
+480,Canvas Tote Bag,756,3377.33,191,3893.19,-2259.85,break-even,medium,4/6/2021,480,480,Chile,,electronics,480,online payment
+481,Honey Sesame Cashews,53,5337.77,368,4100.87,-4214.07,loss-making,high,4/9/2021,481,481,Indonesia,,electronics,481,credit card
+482,Turmeric Ginger Tea,198,7220.91,543,1399.67,-1796.69,profitable,high,6/18/2021,482,482,Russia,169635,groceries,482,online payment
+483,Smoked Paprika Chicken Thighs,445,3060.64,978,2350.73,3705.48,break-even,medium,9/19/2021,483,483,Philippines,7104,groceries,483,online payment
+484,Honey BBQ Riblets,975,3558.4,928,653.42,395.11,loss-making,high,12/24/2021,484,484,Luxembourg,L-9359,clothing,484,credit card
+485,Teriyaki Beef Strips,254,6722.3,147,3615.38,-3971.94,loss-making,low,8/16/2021,485,485,Honduras,,electronics,485,cash
+486,LED Strip Lights,402,4211.18,32,-420.21,4270.88,profitable,low,4/18/2021,486,486,Japan,419-0125,groceries,486,online payment
+487,Ceramic Bakeware Set,347,4051.03,355,4040.49,838.78,profitable,medium,5/20/2021,487,487,China,,electronics,487,online payment
+488,Caribbean Jerk Marinade,998,107.77,409,3889.13,-306.75,loss-making,low,1/16/2021,488,488,Sweden,683 24,groceries,488,credit card
+489,Wall-Mounted Spice Rack,773,8599.96,681,1052.78,4475.84,profitable,low,2/27/2021,489,489,China,,clothing,489,credit card
+490,Pumpkin Seeds,326,8827.65,134,-357.55,-2263.64,profitable,high,9/12/2021,490,490,Dominican Republic,11205,groceries,490,cash
+491,Portable Ice Maker,123,1696.9,703,3385.79,-155.95,break-even,high,4/21/2021,491,491,Australia,5899,groceries,491,credit card
+492,High-Quality Yoga Mat,209,4258.89,273,-731.76,-4107.56,loss-making,high,9/1/2021,492,492,Argentina,3540,clothing,492,online payment
+493,Classic Leather Wallet,565,4212.57,929,3457.95,-750.64,break-even,medium,2/5/2021,493,493,Poland,64-980,electronics,493,online payment
+494,Basmati Rice,123,8340.55,616,1034.34,3396.12,break-even,medium,9/9/2021,494,494,Greece,,groceries,494,credit card
+495,Electric Rice Cooker with Steamer,742,3607.56,945,-950.26,2648.69,loss-making,low,10/14/2021,495,495,Poland,06-513,electronics,495,credit card
+496,Spinach Feta Wraps,400,8257.98,822,-930.35,78.87,profitable,medium,9/24/2021,496,496,Poland,97-280,electronics,496,online payment
+497,Portable Camping Shower,80,3096.73,788,1953.31,-4383.03,loss-making,low,2/3/2021,497,497,Indonesia,,groceries,497,cash
+498,Red Lentil Pasta,747,3878.68,105,4463.93,2092.44,loss-making,high,6/26/2021,498,498,Morocco,,clothing,498,credit card
+499,Zesty Garlic Hummus,685,2524.71,731,810.27,1619.23,profitable,low,1/26/2021,499,499,Norway,3519,electronics,499,online payment
+500,Classic Vanilla Fudge,719,1405.0,508,4791.92,-262.11,break-even,medium,6/3/2021,500,500,China,,clothing,500,online payment
+501,Smartphone Stand,824,6057.58,710,779.45,825.01,loss-making,high,12/22/2021,501,501,Paraguay,,clothing,501,online payment
+502,Maple Cinnamon Almonds,982,6876.96,877,1805.78,4907.13,profitable,medium,2/11/2021,502,502,Laos,,electronics,502,cash
+503,Honey Ginger Tea,488,3716.02,646,-598.97,-3065.44,profitable,medium,11/13/2021,503,503,France,33911 CEDEX 9,groceries,503,credit card
+504,Classic Leather Wallet,849,2299.18,479,-832.39,2296.66,loss-making,medium,12/9/2021,504,504,Latvia,,electronics,504,online payment
+505,French Bread,615,3456.46,698,-144.91,2034.07,break-even,high,3/16/2021,505,505,France,92036 CEDEX,clothing,505,cash
+506,Frozen Cauliflower Rice,490,7024.79,733,4029.56,142.19,break-even,high,5/18/2021,506,506,Pakistan,77041,electronics,506,cash
+507,Vegetable Chips,318,4716.76,774,531.71,-777.42,break-even,high,1/12/2021,507,507,Cameroon,,electronics,507,cash
+508,Vegetable Pizza Rolls,725,9758.09,70,2754.57,-4164.86,profitable,low,12/26/2021,508,508,Canada,M2K,electronics,508,online payment
+509,Dried Cranberries,562,7741.32,73,3177.86,1145.66,profitable,high,1/13/2021,509,509,France,92174 CEDEX,clothing,509,credit card
+510,Toilet Paper (12 rolls),342,3590.85,444,2761.58,-3223.68,loss-making,high,2/6/2021,510,510,Venezuela,,electronics,510,online payment
+511,Sliced Strawberries,142,2301.18,728,473.18,4008.55,loss-making,medium,1/17/2021,511,511,Nigeria,,electronics,511,online payment
+512,Elegant Maxi Skirt,207,5862.18,551,-870.37,-3940.51,break-even,high,4/22/2021,512,512,Indonesia,,clothing,512,credit card
+513,Balsamic Vinaigrette,957,9292.76,42,2428.53,274.2,profitable,low,3/21/2021,513,513,Israel,,clothing,513,cash
+514,Terry Cloth Robe,886,6697.02,345,-114.96,2655.86,break-even,high,4/23/2021,514,514,Russia,456505,clothing,514,credit card
+515,Savory Trail Mix,687,6768.7,396,119.32,-4778.55,profitable,medium,11/16/2021,515,515,China,,groceries,515,credit card
+516,Window Bird Feeder with Suction Cups,313,5976.67,253,4490.59,-2640.66,break-even,low,12/4/2021,516,516,Mauritania,,clothing,516,credit card
+517,Organic Almonds,805,4694.57,966,2254.46,1055.48,break-even,medium,9/21/2021,517,517,Indonesia,,clothing,517,online payment
+518,Almond Joy Snack Bars,794,4019.42,90,3054.46,4819.66,profitable,high,2/9/2021,518,518,Poland,62-510,clothing,518,credit card
+519,Vegetable Lentil Soup,522,7941.38,459,-817.31,3723.56,profitable,low,10/31/2021,519,519,Brazil,39550-000,groceries,519,cash
+520,Sweet Potato & Kale Hash,565,6306.93,912,1217.46,-2168.68,loss-making,medium,11/19/2021,520,520,Indonesia,,electronics,520,online payment
+521,Chilli Lime Corn on the Cob,263,6695.14,267,156.27,-15.19,break-even,medium,3/3/2021,521,521,Bosnia and Herzegovina,,groceries,521,cash
+522,Digital Alarm Clock,315,996.05,257,23.79,3123.53,profitable,high,7/15/2021,522,522,China,,groceries,522,cash
+523,Vegan Mayonnaise,55,5792.52,812,3682.42,-3132.43,break-even,low,1/29/2021,523,523,Saint Martin,,electronics,523,online payment
+524,Portable Charger with Solar Panel,705,4659.21,516,839.8,3486.49,break-even,low,12/3/2021,524,524,Latvia,,electronics,524,online payment
+525,Garlic and Herb Rub,709,66.05,997,4352.62,3251.89,break-even,medium,2/25/2021,525,525,Sudan,,clothing,525,online payment
+526,Cabbage,528,667.36,195,4766.09,-3349.84,break-even,low,7/26/2021,526,526,Peru,,clothing,526,cash
+527,Fruit Medley Juice,325,772.61,203,3489.43,-2714.74,loss-making,low,7/6/2021,527,527,Poland,73-231,groceries,527,online payment
+528,Balsamic Vinaigrette,911,8911.57,388,4780.25,2320.12,profitable,high,1/3/2021,528,528,Russia,361327,groceries,528,online payment
+529,Smart Light Bulbs,882,1175.53,962,3427.0,325.62,profitable,low,12/26/2021,529,529,China,,groceries,529,credit card
+530,Pumpkin Spice Pancake Mix,810,7105.1,2,724.6,154.97,loss-making,medium,4/29/2021,530,530,Philippines,2207,electronics,530,online payment
+531,Wall-Mounted Organizer,882,8057.22,758,3296.6,272.17,loss-making,low,10/30/2021,531,531,China,,groceries,531,online payment
+532,Electric Griddle with Removable Plates,161,7498.51,33,2771.99,911.81,break-even,medium,8/12/2021,532,532,China,,electronics,532,cash
+533,Almond Butter Granola Bars,258,6782.65,241,3479.96,-4876.29,break-even,medium,1/17/2021,533,533,Thailand,11120,groceries,533,online payment
+534,Measuring Cups Set,494,3626.68,455,3023.58,-2191.64,loss-making,medium,12/1/2021,534,534,China,,clothing,534,credit card
+535,Digital Food Scale,343,2749.07,973,3870.82,1351.29,loss-making,high,8/14/2021,535,535,Philippines,4026,groceries,535,online payment
+536,Phone Screen Protector,906,2094.18,992,2415.89,-2044.08,profitable,medium,8/8/2021,536,536,El Salvador,,clothing,536,credit card
+537,Brussels Sprouts,598,7549.19,746,4033.02,-1339.86,profitable,medium,11/16/2021,537,537,Russia,182647,electronics,537,cash
+538,Wireless Music Receiver,719,833.84,719,1987.57,16.27,loss-making,high,12/19/2021,538,538,Croatia,43211,groceries,538,credit card
+539,Pepper Jack Cheese Slices,835,4596.17,757,1417.04,-4095.24,break-even,high,2/7/2021,539,539,China,,electronics,539,online payment
+540,Chocolate Hazelnut Spread,639,4361.27,620,2710.14,-3433.92,break-even,high,7/30/2021,540,540,China,,groceries,540,online payment
+541,Skincare Fridge,605,1240.87,133,1024.13,580.11,profitable,medium,8/16/2021,541,541,Russia,403538,clothing,541,online payment
+542,Travel Pillow,392,3573.92,703,4439.22,143.22,break-even,medium,7/24/2021,542,542,Mexico,86723,clothing,542,cash
+543,Asian Stir-Fry Vegetables,280,2856.39,764,1517.87,-1296.87,break-even,high,12/16/2021,543,543,Moldova,MD-5840,clothing,543,online payment
+544,Tomato Basil Soup,475,3631.35,588,128.68,-2465.45,loss-making,medium,7/3/2021,544,544,Bulgaria,5844,groceries,544,cash
+545,DIY Candle Kit,910,9089.93,707,644.08,-2063.91,profitable,high,6/10/2021,545,545,Peru,,electronics,545,credit card
+546,Black Olives,176,6814.46,875,3296.47,822.68,profitable,low,12/22/2021,546,546,China,,groceries,546,online payment
+547,Almond Crunch Granola Bars,740,4078.71,550,3926.49,-3116.83,loss-making,medium,3/2/2021,547,547,Gabon,,clothing,547,cash
+548,Baking Soda,324,5339.75,202,2182.52,3963.02,break-even,high,8/6/2021,548,548,Philippines,6344,groceries,548,online payment
+549,Classic Baseball Cap,784,4561.93,1,3095.48,112.41,profitable,low,3/27/2021,549,549,Mexico,88680,groceries,549,online payment
+550,Raspberry Lemonade Mix,956,7810.68,587,2360.23,4395.01,loss-making,medium,2/5/2021,550,550,China,,clothing,550,online payment
+551,Spicy Tuna Sushi Kit,426,3194.09,522,244.32,-4597.57,profitable,high,3/3/2021,551,551,Peru,,clothing,551,cash
+552,Italian Herb Balsamic Marinade,630,7374.65,569,518.79,-4097.91,break-even,low,8/17/2021,552,552,Argentina,7630,electronics,552,credit card
+553,Kids' Craft Supplies Set,126,8487.44,157,4011.69,-1925.18,profitable,low,12/15/2021,553,553,Kazakhstan,,clothing,553,credit card
+554,Electric Bike,884,3057.06,580,528.68,4141.82,break-even,medium,8/31/2021,554,554,Czech Republic,584 01,groceries,554,cash
+555,Vegan chocolate chip cookies,910,8804.93,624,1778.33,-4104.35,profitable,low,8/16/2021,555,555,Poland,63-005,electronics,555,credit card
+556,Pet Hair Vacuum Attachment,147,2132.28,526,4617.27,86.85,profitable,high,1/6/2021,556,556,Philippines,3110,groceries,556,cash
+557,Laptop Sleeve,846,6714.52,492,1819.67,-2222.73,break-even,high,6/20/2021,557,557,Kazakhstan,,electronics,557,credit card
+558,Silicone Baking Cups,567,1070.13,161,3697.96,-2532.96,loss-making,medium,12/8/2021,558,558,United States,33673,electronics,558,credit card
+559,Safety Goggles,620,6242.01,593,570.83,-3292.86,profitable,low,7/9/2021,559,559,Japan,839-1301,clothing,559,online payment
+560,Blueberry Chia Jam,123,4595.81,644,1033.31,-1853.67,loss-making,low,6/26/2021,560,560,Democratic Republic of the Congo,,electronics,560,cash
+561,Mango Chili Salsa,245,991.96,634,4279.59,-733.01,loss-making,medium,2/28/2021,561,561,Guinea,,groceries,561,credit card
+562,Turmeric Ginger Tea,972,6024.69,65,1462.65,-2299.25,profitable,high,11/23/2021,562,562,Morocco,,groceries,562,online payment
+563,Sliced Provolone Cheese,706,1352.63,262,4991.77,-3321.41,loss-making,low,3/28/2021,563,563,Brazil,35000-000,clothing,563,credit card
+564,Fruit Infuser Water Bottle,536,6228.61,868,932.27,-2024.06,loss-making,low,4/25/2021,564,564,Czech Republic,561 81,groceries,564,online payment
+565,Applewood Smoked Bacon,424,6014.95,915,-685.8,598.6,profitable,low,10/17/2021,565,565,Argentina,4206,clothing,565,online payment
+566,Lentil Vegetable Curry,274,6092.33,271,1072.04,-4139.51,loss-making,medium,11/2/2021,566,566,Russia,184389,groceries,566,credit card
+567,Dog Training Collar,816,5961.58,781,204.78,-1729.59,profitable,medium,10/31/2021,567,567,China,,electronics,567,cash
+568,Luxury Yoga Mat,449,2679.82,558,4883.56,-1400.3,profitable,medium,6/15/2021,568,568,China,,electronics,568,online payment
+569,Skincare Set,156,5863.42,538,4134.35,-4586.76,break-even,high,7/3/2021,569,569,China,,groceries,569,online payment
+570,Lentil Vegetable Stew,975,7717.19,370,1058.98,-2699.58,loss-making,medium,12/21/2021,570,570,China,,electronics,570,online payment
+571,Rechargeable Battery Organizer,526,6952.07,139,2120.11,-2866.3,loss-making,low,9/5/2021,571,571,Benin,,groceries,571,online payment
+572,Stainless Steel Water Pitcher,300,424.0,23,3187.92,-1884.63,break-even,high,8/18/2021,572,572,North Korea,,clothing,572,online payment
+573,Adjustable Stand for Tablets and Smartphones,676,6643.4,980,4962.46,-737.79,profitable,medium,4/18/2021,573,573,South Korea,,groceries,573,cash
+574,Greek Yogurt Parfait,691,2611.26,171,1568.12,3612.14,profitable,low,12/15/2021,574,574,Iran,,clothing,574,cash
+575,Cotton Tote Bag Set,726,985.19,179,1735.98,1329.16,profitable,low,9/6/2021,575,575,Haiti,,clothing,575,cash
+576,Vegetable Stock,594,9762.16,112,-105.24,-1749.88,profitable,low,11/10/2021,576,576,China,,electronics,576,cash
+577,Overnight Hiking Backpack,403,3313.36,381,2926.16,-1681.01,profitable,low,1/5/2021,577,577,Indonesia,,clothing,577,cash
+578,Chili Lime Shrimp,809,7605.88,471,1488.27,1936.25,break-even,low,1/29/2021,578,578,Czech Republic,411 86,groceries,578,online payment
+579,Basil Lemonade,434,8141.62,962,1286.81,-1350.17,loss-making,low,5/18/2021,579,579,Morocco,,electronics,579,online payment
+580,Linen Trousers,537,8477.93,473,2156.73,-1765.7,break-even,medium,4/29/2021,580,580,China,,groceries,580,online payment
+581,Caribbean Jerk Marinade,152,855.45,629,1101.54,144.19,break-even,low,10/5/2021,581,581,Bhutan,,electronics,581,online payment
+582,Camera Lens Cleaning Kit,670,7548.82,362,722.73,2774.53,loss-making,high,2/13/2021,582,582,Argentina,4152,clothing,582,cash
+583,Stainless Steel Straws,539,2781.04,705,2114.69,-2682.2,loss-making,high,6/14/2021,583,583,China,,electronics,583,cash
+584,Kids' Outdoor Explorer Kit,86,2186.53,619,2810.8,1580.38,profitable,low,12/26/2021,584,584,Indonesia,,clothing,584,online payment
+585,Multi-Layer Food Steamer,465,2320.32,241,2119.32,3347.39,profitable,low,1/26/2021,585,585,United States,95064,clothing,585,online payment
+586,Rolling Cooler,164,6733.92,928,2432.45,-88.9,loss-making,low,1/20/2021,586,586,Indonesia,,groceries,586,cash
+587,Cinnamon Rolls,422,2605.9,456,2062.18,-1143.27,profitable,high,7/16/2021,587,587,Belarus,,electronics,587,cash
+588,Chicken Broth,102,1146.12,158,4716.39,226.79,profitable,medium,3/25/2021,588,588,Canada,H5B,groceries,588,credit card
+589,Californian Raisins,467,4623.86,871,4043.13,-2460.47,loss-making,high,11/4/2021,589,589,Russia,674250,groceries,589,credit card
+590,Hand Crank Blender,127,2314.49,933,3878.18,943.88,profitable,high,8/23/2021,590,590,Malta,FRN,groceries,590,credit card
+591,Pet Activity Tracker,129,6757.28,435,309.23,221.3,break-even,high,3/7/2021,591,591,Philippines,4221,electronics,591,online payment
+592,Beef Enchilada Casserole,391,9996.99,731,-489.06,-3329.05,profitable,low,11/29/2021,592,592,China,,electronics,592,cash
+593,Kids' Activity Book,993,8506.16,253,2967.51,2407.35,profitable,low,5/26/2021,593,593,Pakistan,36121,groceries,593,cash
+594,Portable Solar Generator,525,8773.71,522,4007.99,-4333.34,profitable,low,7/8/2021,594,594,Portugal,5090-017,groceries,594,credit card
+595,Spicy Snack Mix,482,9056.96,252,4799.92,-4785.79,break-even,low,1/23/2021,595,595,United Kingdom,WF9,groceries,595,credit card
+596,LED Strip Lights Kit,856,7052.99,318,-456.24,1331.97,loss-making,low,9/28/2021,596,596,United States,75287,clothing,596,cash
+597,Electric Griddle with Removable Plates,489,5955.68,554,2377.91,4918.38,loss-making,high,11/23/2021,597,597,Poland,24-320,clothing,597,credit card
+598,Casual Long Cardigan,854,3809.68,145,2947.18,2398.56,loss-making,medium,5/9/2021,598,598,Czech Republic,671 24,electronics,598,credit card
+599,Fitness Tracker Band,934,5570.84,545,3328.26,-595.69,profitable,high,7/26/2021,599,599,Indonesia,,groceries,599,cash
+600,Vegetarian Stir Fry Sauce,560,2413.99,592,1922.68,4955.94,profitable,low,1/7/2021,600,600,Bulgaria,2281,electronics,600,online payment
+601,Rice Pilaf Mix,141,4654.21,608,-494.16,1963.01,break-even,medium,10/19/2021,601,601,Philippines,9019,groceries,601,cash
+602,High-Speed HDMI Cable,797,1146.45,413,2092.82,1558.88,loss-making,low,12/28/2021,602,602,Ireland,P31,electronics,602,credit card
+603,Self-Cleaning Cat Litter Box,169,165.12,593,993.9,3127.14,profitable,high,3/29/2021,603,603,Macedonia,2423,groceries,603,online payment
+604,Baked Falafel Balls,507,5875.49,619,4805.55,2785.34,loss-making,medium,8/27/2021,604,604,Yemen,,clothing,604,cash
+605,Organic Granola,205,3423.59,288,-260.02,1547.13,loss-making,medium,2/28/2021,605,605,China,,clothing,605,credit card
+606,Electric Opener for Jars and Bottles,483,6809.0,658,-316.89,-53.78,profitable,high,10/20/2021,606,606,China,,groceries,606,cash
+607,Comfortable Jogger Pants,63,7311.27,518,1999.94,-589.99,loss-making,high,3/5/2021,607,607,China,,groceries,607,credit card
+608,Instant Read Meat Thermometer,501,7449.75,36,791.44,272.21,break-even,high,11/1/2021,608,608,France,93104 CEDEX,electronics,608,online payment
+609,Travel Makeup Organizer,425,8233.67,394,834.05,1085.49,loss-making,high,1/13/2021,609,609,Philippines,9104,electronics,609,credit card
+610,Avocado Oil Mayo,564,8813.23,619,346.17,4880.12,profitable,high,3/20/2021,610,610,Indonesia,,clothing,610,cash
+611,Emergency Preparedness Kit,220,1533.86,871,4673.95,4706.25,profitable,high,10/30/2021,611,611,Peru,,clothing,611,cash
+612,Wall Decals for Kids,83,9661.65,318,2212.42,2277.99,loss-making,medium,1/1/2021,612,612,Indonesia,,clothing,612,credit card
+613,Magnet Travel Fridge Magnets,505,9502.01,939,1884.14,-2998.62,profitable,medium,10/24/2021,613,613,Greece,,groceries,613,cash
+614,Travel Laundry Bag,159,4213.7,125,968.88,4949.86,profitable,medium,8/27/2021,614,614,Palestinian Territory,,clothing,614,online payment
+615,Salt and Pepper Grinder Set,781,1444.02,938,4388.64,-3286.38,loss-making,medium,6/20/2021,615,615,Czech Republic,507 43,clothing,615,cash
+616,Garlic Herb Cream Cheese,974,6533.38,486,1079.54,-1161.56,break-even,low,8/25/2021,616,616,Oman,,groceries,616,cash
+617,Natural Fruit Snacks,42,1042.7,374,2291.31,4147.33,break-even,high,7/7/2021,617,617,Thailand,20270,electronics,617,online payment
+618,Buffalo Cauliflower Bites,503,2592.46,597,4220.83,4482.54,break-even,medium,1/10/2021,618,618,Philippines,0801,clothing,618,cash
+619,Compact Pop-Up Tent,714,7214.99,695,4435.02,-4307.72,break-even,medium,7/23/2021,619,619,Peru,,groceries,619,credit card
+620,Handmade Wooden Utensil Set,664,580.68,681,2704.4,-2869.4,profitable,medium,10/31/2021,620,620,Indonesia,,groceries,620,credit card
+621,Italian Herbal Seasoning,930,90.51,30,2938.72,1818.19,loss-making,low,8/21/2021,621,621,Brazil,68580-000,groceries,621,online payment
+622,Cranberry Pecan Granola,78,2051.08,570,4680.98,-4343.59,profitable,high,10/28/2021,622,622,Russia,366703,clothing,622,online payment
+623,Vegetarian Chili,652,1015.41,65,1534.61,-3695.58,profitable,low,2/17/2021,623,623,France,06403 CEDEX,groceries,623,credit card
+624,Electric Heat Press Machine,760,4736.65,468,3458.24,3079.93,profitable,low,10/9/2021,624,624,Philippines,9601,electronics,624,credit card
+625,Cotton Sweatpants,165,7298.33,213,3824.9,-4322.5,loss-making,medium,3/15/2021,625,625,Russia,422721,electronics,625,credit card
+626,Frozen Vegetarian Pizza,801,1583.1,490,366.99,3621.8,profitable,medium,1/5/2021,626,626,Portugal,4755-264,electronics,626,cash
+627,Portable Solar Phone Charger,938,5209.56,383,-297.08,-3906.03,loss-making,low,5/28/2021,627,627,China,,clothing,627,online payment
+628,Shredded Cheese,322,5464.85,299,2789.06,-525.05,profitable,low,5/3/2021,628,628,China,,groceries,628,credit card
+629,Reclining Camping Chair,655,8364.18,538,489.92,-1785.02,profitable,high,12/23/2021,629,629,Ukraine,,clothing,629,cash
+630,Comfortable Bed Pillow,310,8438.85,640,-927.98,1834.47,profitable,high,2/24/2021,630,630,China,,groceries,630,cash
+631,Artisan Flatbreads,129,9193.14,505,194.56,3.19,loss-making,low,7/3/2021,631,631,Indonesia,,electronics,631,cash
+632,Scented Candles,469,9107.02,438,2720.17,-1339.4,loss-making,high,7/16/2021,632,632,Thailand,14130,groceries,632,cash
+633,Set of Decorative Storage Bins,369,9021.57,722,71.63,3541.68,break-even,low,3/9/2021,633,633,Russia,659780,electronics,633,cash
+634,Over-the-Door Shoe Organizer,21,5162.57,759,3416.3,-882.69,break-even,high,8/13/2021,634,634,United States,48211,clothing,634,cash
+635,Cat Tree,762,5077.73,149,3170.07,-3430.54,profitable,medium,3/25/2021,635,635,Indonesia,,groceries,635,online payment
+636,Smart LED Light Strip,944,6599.1,217,4130.14,4643.76,profitable,high,2/14/2021,636,636,China,,electronics,636,credit card
+637,Electric Air Pump,521,2533.35,188,3268.27,4554.81,loss-making,high,10/9/2021,637,637,Finland,21251,electronics,637,cash
+638,Wireless HDMI Receiver,206,863.11,238,2588.55,3389.42,loss-making,medium,3/16/2021,638,638,Russia,404264,clothing,638,credit card
+639,Pest Control Traps,425,5636.62,320,2398.78,1972.31,break-even,low,7/7/2021,639,639,Czech Republic,547 01,clothing,639,credit card
+640,Thai Basil Fried Rice,725,4731.83,855,1976.99,-2316.02,loss-making,high,10/18/2021,640,640,United States,20226,groceries,640,cash
+641,Electric Pressure Cooker,283,6050.58,379,2679.4,3281.61,profitable,low,6/10/2021,641,641,Chile,,clothing,641,credit card
+642,Fall-Themed Table Runner,498,2772.35,339,3237.81,-2065.97,profitable,medium,5/23/2021,642,642,Brazil,46100-000,electronics,642,credit card
+643,Hydration Backpack,376,5884.5,982,1230.22,3883.65,loss-making,low,9/30/2021,643,643,Portugal,5120-105,electronics,643,credit card
+644,Electric Toothbrush,133,7757.0,330,227.18,-3342.25,break-even,low,2/2/2021,644,644,Indonesia,,groceries,644,cash
+645,Adjustable Resistance Bands,53,8130.87,370,2545.69,-2006.44,break-even,low,5/23/2021,645,645,China,,clothing,645,online payment
+646,Gaming Mousepad,502,4363.78,761,215.66,-2906.91,loss-making,low,2/27/2021,646,646,Portugal,2620-005,clothing,646,cash
+647,Self-Stirring Mug,5,5478.58,704,3570.59,-3968.88,profitable,medium,4/19/2021,647,647,Philippines,2422,clothing,647,credit card
+648,Wall Art,732,2233.77,743,640.25,4299.63,loss-making,high,3/1/2021,648,648,Ukraine,,groceries,648,online payment
+649,Ice Cream Maker,190,4821.36,643,137.44,-4769.29,profitable,medium,4/5/2021,649,649,Malta,MQB,electronics,649,cash
+650,Sooji (Semolina),689,7460.52,493,3853.62,-2319.7,break-even,high,4/26/2021,650,650,Thailand,70130,groceries,650,online payment
+651,Nutritional Yeast,747,5575.03,785,2122.84,3290.84,break-even,medium,9/10/2021,651,651,Russia,188507,electronics,651,cash
+652,Over-Ear Headphones,362,4676.86,645,3084.58,-2173.05,profitable,medium,3/16/2021,652,652,Russia,157944,clothing,652,cash
+653,Kids Tablet,340,782.65,87,-172.55,-2932.87,profitable,low,11/26/2021,653,653,Indonesia,,groceries,653,cash
+654,Organic Tomato Ketchup,54,861.77,394,843.71,88.33,profitable,high,9/29/2021,654,654,China,,groceries,654,cash
+655,Kids' Learning Tablet,585,8563.71,703,1609.33,4725.61,profitable,high,10/13/2021,655,655,Philippines,6028,electronics,655,online payment
+656,Natural Soy Candles,169,6040.66,283,1218.14,-746.42,loss-making,high,11/14/2021,656,656,Armenia,,groceries,656,online payment
+657,Tuna Fish (canned),108,2549.97,217,371.31,-4493.24,loss-making,high,10/14/2021,657,657,Finland,77700,groceries,657,online payment
+658,Vegetable Chips,189,6778.71,471,376.74,-2134.88,break-even,high,7/6/2021,658,658,China,,groceries,658,online payment
+659,Customizable Wall Calendar,748,176.35,762,-271.87,-2283.2,loss-making,low,12/15/2021,659,659,Brazil,83600-000,groceries,659,online payment
+660,Dark Chocolate Covered Almonds,188,5745.12,689,4238.0,-1489.45,profitable,high,10/11/2021,660,660,Chile,,clothing,660,cash
+661,Bamboo Toothbrush,238,5291.16,755,2298.04,-2590.18,break-even,medium,5/24/2021,661,661,Vietnam,,electronics,661,cash
+662,BBQ Sauce,762,8834.32,517,1540.49,4081.57,profitable,low,8/15/2021,662,662,Portugal,2860-310,groceries,662,online payment
+663,Gardening Gloves,308,9899.29,148,4205.93,-3927.07,profitable,medium,7/4/2021,663,663,Kazakhstan,,electronics,663,online payment
+664,Cinnamon Rolls,592,333.49,189,3828.16,3113.46,profitable,low,1/20/2021,664,664,Indonesia,,clothing,664,online payment
+665,Canned Sardines,548,1306.04,833,-270.17,-3318.66,loss-making,low,9/30/2021,665,665,Zimbabwe,,groceries,665,credit card
+666,Mixed Berry Smoothie Pack,400,1079.32,544,1016.12,3198.36,profitable,medium,9/10/2021,666,666,Indonesia,,electronics,666,cash
+667,Suction Cup Hooks,424,1145.88,500,2702.94,3091.83,profitable,high,11/10/2021,667,667,China,,clothing,667,credit card
+668,Non-Toxic Crayons for Kids,660,6142.7,988,954.78,1920.33,break-even,low,3/20/2021,668,668,China,,electronics,668,online payment
+669,Customizable Photo Calendar,934,9811.55,670,1104.73,-2175.49,break-even,high,6/10/2021,669,669,Poland,08-322,groceries,669,cash
+670,Spicy Tuna Rolls,735,2278.98,989,4171.07,1366.11,loss-making,low,11/15/2021,670,670,Mongolia,,groceries,670,online payment
+671,Leather Biker Jacket,136,5347.16,718,1851.05,3295.6,break-even,high,9/11/2021,671,671,Brazil,76550-000,electronics,671,cash
+672,Kids' Gardening Kit,275,1754.65,312,1172.38,4862.4,loss-making,medium,8/16/2021,672,672,China,,electronics,672,online payment
+673,Chopping Board,926,8307.37,26,1369.6,-4047.89,break-even,high,7/13/2021,673,673,China,,clothing,673,credit card
+674,Peanut Butter Pretzel Bites,310,4087.8,593,2018.46,18.01,profitable,high,6/8/2021,674,674,South Africa,6332,groceries,674,cash
+675,Solar Power Bank,225,9678.05,477,275.45,-3975.87,break-even,medium,6/27/2021,675,675,Indonesia,,electronics,675,credit card
+676,Tailored Dress Pants,353,6987.46,116,2637.59,-3928.64,break-even,high,11/24/2021,676,676,France,13540,groceries,676,online payment
+677,Chocolate Avocado Pudding,377,8088.34,582,-64.61,-2432.13,break-even,medium,2/20/2021,677,677,China,,groceries,677,online payment
+678,Wall-Mounted Organizer,834,2845.7,616,-351.81,2036.26,loss-making,medium,11/16/2021,678,678,Indonesia,,electronics,678,cash
+679,Coconut Bowls Set,230,3338.1,581,4032.53,-4072.56,break-even,high,9/13/2021,679,679,Brazil,83280-000,clothing,679,credit card
+680,Whole Grain Mustard,876,5458.11,472,496.16,-2752.59,loss-making,low,9/19/2021,680,680,China,,electronics,680,credit card
+681,Roasted Garlic Pasta Sauce,806,2208.16,612,3864.96,78.2,profitable,low,11/24/2021,681,681,China,,clothing,681,credit card
+682,Portable Speakers,891,4672.1,284,302.99,822.03,break-even,low,6/21/2021,682,682,Hong Kong,,electronics,682,cash
+683,Chocolate Hazelnut Spread,75,6253.57,547,2627.66,-2283.79,profitable,high,2/15/2021,683,683,Macedonia,2423,electronics,683,credit card
+684,Smart Fitness Scale,537,7318.43,240,2639.48,379.8,loss-making,high,4/16/2021,684,684,Sweden,382 91,clothing,684,cash
+685,Smart LED Light Strip,178,5361.07,585,368.2,-1047.82,profitable,medium,3/12/2021,685,685,Indonesia,,groceries,685,cash
+686,Baked Falafel,363,300.53,625,798.92,4104.25,profitable,high,4/25/2021,686,686,Sweden,391 21,clothing,686,online payment
+687,Maple Bacon Jerky,233,5151.91,859,2616.29,2612.75,profitable,medium,6/28/2021,687,687,Jordan,,clothing,687,credit card
+688,Artisan Bread Loaf,484,9585.52,794,4637.38,-1777.61,break-even,high,12/12/2021,688,688,Japan,311-2424,clothing,688,online payment
+689,Wooden Puzzle Game,194,2099.08,306,1409.79,4559.72,loss-making,low,9/4/2021,689,689,Colombia,941047,electronics,689,cash
+690,Slim Wallet,260,629.76,523,1390.54,-512.87,break-even,medium,10/6/2021,690,690,Russia,624282,groceries,690,cash
+691,Spicy Thai Noodles,721,243.45,165,-575.62,3175.42,profitable,high,3/15/2021,691,691,France,35574 CEDEX,clothing,691,cash
+692,Almond Butter,110,9041.4,471,3064.58,-3704.26,profitable,low,2/3/2021,692,692,Mexico,40160,clothing,692,cash
+693,Stainless Steel Water Bottle,698,1025.9,378,2576.84,-4333.01,profitable,medium,2/26/2021,693,693,Kuwait,,clothing,693,credit card
+694,Inflatable Paddle Board,172,2284.47,860,2462.07,-1531.3,profitable,low,12/2/2021,694,694,China,,clothing,694,online payment
+695,Pasta Primavera,55,7916.89,773,4461.05,-267.8,break-even,low,11/12/2021,695,695,Philippines,6006,clothing,695,online payment
+696,Cranberry Almond Granola,57,1555.86,172,417.77,-4330.49,loss-making,low,6/29/2021,696,696,China,,groceries,696,cash
+697,Over-the-Door Hooks,80,3423.94,571,113.79,-2333.86,break-even,high,3/23/2021,697,697,China,,electronics,697,cash
+698,Butternut Squash Ravioli,796,498.71,451,629.67,2157.5,profitable,high,5/16/2021,698,698,Micronesia,,electronics,698,cash
+699,Chocolate Chip Cookie Mix,830,1000.94,70,3212.04,3558.72,loss-making,medium,7/6/2021,699,699,China,,clothing,699,cash
+700,Portable Laptop Table,675,1497.01,998,1404.2,2894.23,loss-making,low,9/5/2021,700,700,Poland,36-060,electronics,700,cash
+701,Frozen Berry Medley,654,8731.0,725,2184.1,-4094.73,loss-making,high,11/26/2021,701,701,Philippines,3525,clothing,701,cash
+702,Hot Salsa,695,2124.91,639,4174.93,-794.86,profitable,low,7/26/2021,702,702,Poland,36-221,clothing,702,cash
+703,Garlic Herb Grilled Chicken,875,6805.73,174,2688.31,-4563.65,break-even,high,4/1/2021,703,703,Philippines,5411,clothing,703,credit card
+704,Trail Mix (Deluxe),583,1666.46,58,377.86,1950.93,profitable,low,6/6/2021,704,704,Indonesia,,clothing,704,credit card
+705,Electric Wine Opener,292,3341.96,990,3948.81,-577.29,loss-making,high,2/22/2021,705,705,Greece,,electronics,705,credit card
+706,Grilled Veggie Burgers,904,1022.1,957,852.63,-4131.11,loss-making,low,3/23/2021,706,706,Guinea,,clothing,706,online payment
+707,Coconut Cream Pie,78,4789.4,922,-266.58,-1925.89,break-even,high,12/10/2021,707,707,China,,clothing,707,online payment
+708,Sweetened Condensed Milk,78,9426.32,514,2524.44,1450.59,profitable,high,10/2/2021,708,708,Somalia,,clothing,708,credit card
+709,Multi-Tool,387,3890.92,949,2967.16,-4767.3,loss-making,medium,11/26/2021,709,709,China,,groceries,709,online payment
+710,Personal Blender,635,9632.04,962,3390.8,-2986.05,break-even,low,3/8/2021,710,710,Uzbekistan,,clothing,710,online payment
+711,Foam Muscle Roller,511,7949.66,538,-98.35,-164.08,break-even,low,7/23/2021,711,711,Croatia,52212,electronics,711,cash
+712,Teriyaki Stir-Fry Sauce,794,5050.85,773,-368.78,-1682.54,break-even,low,10/23/2021,712,712,China,,clothing,712,credit card
+713,Fitness Tracker Watch,814,6044.43,710,-994.76,3578.14,loss-making,medium,4/1/2021,713,713,Indonesia,,groceries,713,cash
+714,Classic Bagels,654,5323.86,649,621.86,4048.34,loss-making,high,12/30/2021,714,714,Syria,,electronics,714,credit card
+715,Antique Style Clock,884,9462.53,305,3218.49,4496.91,break-even,medium,3/4/2021,715,715,Thailand,33130,groceries,715,online payment
+716,Chilli Lime Corn on the Cob,983,6205.36,698,855.74,1168.96,loss-making,high,6/28/2021,716,716,France,25204 CEDEX,clothing,716,credit card
+717,Cheddar Cheese Slices,499,9235.9,946,4434.14,2102.7,loss-making,high,12/4/2021,717,717,Honduras,,electronics,717,online payment
+718,Adjustable Resistance Bands,996,5408.65,679,-597.08,-912.51,profitable,high,11/24/2021,718,718,Netherlands,1814,clothing,718,cash
+719,Rolling Cooler,770,2270.83,893,-559.92,-3486.19,loss-making,low,1/18/2021,719,719,Philippines,1235,groceries,719,online payment
+720,Cabbage Slaw Mix,670,7698.44,777,173.02,2579.86,break-even,medium,11/23/2021,720,720,Russia,606084,groceries,720,online payment
+721,Organic Coconut Yogurt,339,6755.81,458,-974.27,-4572.33,break-even,medium,9/1/2021,721,721,China,,electronics,721,cash
+722,Savory Pumpkin Soup,2,6346.12,615,860.61,-1151.13,profitable,high,2/22/2021,722,722,Philippines,4004,clothing,722,online payment
+723,Matcha Green Tea Powder,179,8286.69,7,1215.04,1435.69,break-even,high,7/6/2021,723,723,China,,electronics,723,credit card
+724,Customizable Name Puzzle,818,8199.28,605,-699.9,1736.03,loss-making,high,2/20/2021,724,724,Paraguay,,clothing,724,online payment
+725,Sports Windbreaker,303,1694.05,759,-986.0,-3491.02,break-even,high,2/12/2021,725,725,Costa Rica,10304,clothing,725,online payment
+726,Buffalo Cauliflower Bites,204,2170.43,946,962.87,-48.54,loss-making,low,10/25/2021,726,726,Indonesia,,electronics,726,credit card
+727,Tabletop Fire Pit,780,1681.39,711,1932.6,4249.44,profitable,high,8/10/2021,727,727,Poland,73-121,groceries,727,credit card
+728,Pet Hair Remover,342,2608.9,345,3403.13,-1194.85,profitable,medium,2/4/2021,728,728,Trinidad and Tobago,,electronics,728,online payment
+729,Fashionable Belt Bag,438,9532.77,362,4898.52,-4746.38,profitable,high,12/24/2021,729,729,China,,clothing,729,credit card
+730,Zesty Cilantro Lime Dressing,944,3607.74,109,3830.59,4295.52,profitable,high,2/11/2021,730,730,Iran,,groceries,730,cash
+731,Travel Hair Straightener,641,5813.12,492,126.62,3423.39,break-even,low,9/9/2021,731,731,Brazil,96310-000,clothing,731,cash
+732,Pasta (Fusilli),943,3976.62,992,-575.39,-2520.25,profitable,medium,7/27/2021,732,732,Mexico,95096,clothing,732,online payment
+733,Kettle Corn Popcorn,129,782.65,125,2664.91,-948.09,break-even,high,9/3/2021,733,733,China,,electronics,733,online payment
+734,Dark Chocolate Covered Raisins,73,1872.96,853,17.74,386.14,break-even,high,4/17/2021,734,734,Iraq,,electronics,734,cash
+735,Balsamic Vinaigrette,910,9800.19,618,4371.78,2793.84,break-even,low,8/22/2021,735,735,Slovenia,2236,clothing,735,cash
+736,Energy Bites,731,7802.45,937,2519.94,-3569.58,break-even,medium,3/18/2021,736,736,Indonesia,,clothing,736,online payment
+737,Bike Helmet,170,3298.19,875,1790.82,-4467.76,break-even,low,6/22/2021,737,737,Indonesia,,electronics,737,cash
+738,Quinoa and Kale Salad Kit,989,971.04,920,-407.46,2762.8,break-even,low,3/26/2021,738,738,Slovenia,8230,clothing,738,cash
+739,Gaming Headset,258,2501.24,392,2772.99,2829.04,loss-making,high,12/30/2021,739,739,Ukraine,,clothing,739,credit card
+740,Coconut Milk Ice Cream,782,4840.85,192,3430.06,-2220.12,break-even,medium,2/23/2021,740,740,Czech Republic,517 02,groceries,740,online payment
+741,Roasted Garlic Aioli,600,935.72,487,-325.21,-1332.45,profitable,high,2/7/2021,741,741,Argentina,3610,groceries,741,cash
+742,Coconut Bowls Set,818,4036.61,933,-997.47,67.01,loss-making,high,6/30/2021,742,742,Azerbaijan,,electronics,742,cash
+743,Adjustable Height Standing Desk Converter,406,9555.61,332,-648.12,2553.2,break-even,medium,6/30/2021,743,743,Belarus,,electronics,743,credit card
+744,Yoga Strap,339,8594.96,95,4521.85,-4476.27,break-even,high,12/28/2021,744,744,Indonesia,,electronics,744,credit card
+745,Vegetable Spiralizer,585,873.32,664,53.4,4861.58,profitable,low,5/31/2021,745,745,Russia,309534,clothing,745,credit card
+746,Caramel Sauce,961,2520.54,142,4225.02,-1431.78,loss-making,high,12/13/2021,746,746,China,,electronics,746,online payment
+747,Caramel Sauce,671,7836.68,673,1333.58,-4124.33,break-even,medium,1/26/2021,747,747,Nigeria,,clothing,747,online payment
+748,Shredded Cheese,827,3825.4,927,3103.83,4464.73,break-even,medium,3/3/2021,748,748,China,,groceries,748,cash
+749,Pet Activity Tracker,493,87.59,318,3575.5,4932.88,break-even,medium,4/8/2021,749,749,Indonesia,,clothing,749,online payment
+750,Dried Cranberries,168,6975.7,906,201.5,-1068.52,profitable,high,10/3/2021,750,750,China,,electronics,750,online payment
+751,Satin Slip Dress,562,1963.51,738,4009.53,-3717.08,profitable,high,3/17/2021,751,751,Latvia,,electronics,751,cash
+752,Sweet Pea Hummus,952,7944.52,234,199.57,4417.98,loss-making,low,5/10/2021,752,752,China,,clothing,752,cash
+753,High-Speed Hand Blender,240,6020.13,84,545.26,-216.88,loss-making,high,10/6/2021,753,753,United States,21239,groceries,753,credit card
+754,Lemon Dill Salmon,335,4468.74,769,639.62,4139.99,loss-making,high,3/6/2021,754,754,Oman,,groceries,754,credit card
+755,Wall Planner,19,91.15,716,1030.52,4027.94,profitable,low,9/28/2021,755,755,China,,electronics,755,cash
+756,Skincare Set,224,9344.09,399,3107.87,4778.15,profitable,high,7/7/2021,756,756,Brazil,19970-000,clothing,756,credit card
+757,Honey Mustard Chicken Breasts,752,5210.85,201,441.18,-2478.93,loss-making,high,2/8/2021,757,757,United States,33129,electronics,757,cash
+758,Pet Travel Bowl,10,9124.81,778,1101.38,4462.17,loss-making,medium,10/12/2021,758,758,Slovenia,3230,clothing,758,online payment
+759,Digital Photo Frame,666,8457.2,24,2346.98,1674.86,profitable,low,2/20/2021,759,759,China,,electronics,759,cash
+760,Oven Thermometer,170,5956.75,229,-266.3,434.21,break-even,medium,12/2/2021,760,760,Bolivia,,groceries,760,cash
+761,Peanut Butter Cookies,406,4877.8,849,4540.23,-3671.71,loss-making,medium,10/14/2021,761,761,Niger,,clothing,761,credit card
+762,Flavored Instant Oatmeal,841,8096.5,370,1370.74,-3288.96,profitable,low,4/18/2021,762,762,Nigeria,,groceries,762,credit card
+763,Window Blinds,466,8589.76,954,2170.76,-3727.19,break-even,medium,8/15/2021,763,763,China,,clothing,763,cash
+764,Fitness Smartwatch,200,1350.87,85,-787.06,-1515.92,break-even,high,2/22/2021,764,764,Indonesia,,electronics,764,credit card
+765,Marinara Parmesan Baked Ziti,899,3069.17,830,4690.42,-2965.47,profitable,high,10/20/2021,765,765,Russia,601554,electronics,765,cash
+766,Ergonomic Mouse Pad with Wrist Support,920,9217.63,83,1691.67,3256.26,loss-making,high,8/19/2021,766,766,Luxembourg,L-5431,clothing,766,cash
+767,Tahini,540,6566.48,140,113.24,3574.85,loss-making,medium,3/21/2021,767,767,Cameroon,,electronics,767,online payment
+768,Portable Grill Cover,496,4806.46,653,2412.31,-3959.76,profitable,high,3/18/2021,768,768,Portugal,4860-077,groceries,768,cash
+769,Sushi Rice,876,8812.66,574,1295.65,1708.93,profitable,high,12/21/2021,769,769,Peru,,electronics,769,online payment
+770,Buffalo Chicken Dip,621,4281.96,494,1725.17,3002.93,profitable,low,8/27/2021,770,770,Sweden,691 41,groceries,770,credit card
+771,Roasted Red Pepper Hummus,601,3582.59,527,2951.18,-562.95,profitable,high,12/26/2021,771,771,China,,groceries,771,credit card
+772,Whole Roasted Chicken,586,1266.12,960,2397.52,-4953.66,profitable,medium,2/8/2021,772,772,Indonesia,,groceries,772,cash
+773,Fettuccine Alfredo Dinner Kit,310,6616.33,617,488.49,-1681.3,profitable,medium,7/28/2021,773,773,Canada,K7G,groceries,773,online payment
+774,Apple Juice,887,5701.99,434,4570.61,3085.87,profitable,medium,10/20/2021,774,774,Colombia,547079,electronics,774,online payment
+775,Puzzle,962,6346.43,731,538.99,3406.99,break-even,high,8/13/2021,775,775,Philippines,5505,groceries,775,cash
+776,Field Journal,108,3349.85,598,-712.27,142.64,loss-making,low,11/22/2021,776,776,Armenia,,groceries,776,online payment
+777,Garden Hose,895,8361.1,96,3141.46,2131.8,break-even,high,6/16/2021,777,777,Poland,86-160,groceries,777,cash
+778,Pest Control Traps,714,7734.54,610,4126.24,-3527.72,break-even,high,2/12/2021,778,778,Nicaragua,,groceries,778,online payment
+779,Coconut Curry Chicken,611,6814.04,939,4462.17,-2734.57,loss-making,medium,5/6/2021,779,779,Indonesia,,clothing,779,credit card
+780,Ground Cinnamon,25,8237.85,665,75.36,-514.29,profitable,high,2/10/2021,780,780,Sweden,931 77,clothing,780,online payment
+781,Mediterranean Flatbread,169,5158.13,353,-33.18,-4575.17,loss-making,medium,5/22/2021,781,781,China,,clothing,781,credit card
+782,Coloring Books for Adults,251,7312.87,458,-564.34,678.72,loss-making,low,12/12/2021,782,782,Portugal,2520-053,clothing,782,credit card
+783,Pizza Stone,327,5090.79,417,1056.83,-2592.13,profitable,high,12/2/2021,783,783,Russia,396310,clothing,783,online payment
+784,Adjustable Stand for Tablets and Smartphones,42,7685.51,846,4642.87,-1718.5,break-even,medium,2/7/2021,784,784,Czech Republic,739 13,clothing,784,credit card
+785,Vegetable Spiralizer,236,3984.34,856,2602.39,-3682.23,loss-making,low,1/21/2021,785,785,Canada,E7E,electronics,785,online payment
+786,Portable Campfire,369,8018.81,366,1860.92,-735.73,loss-making,high,12/12/2021,786,786,Sweden,386 94,clothing,786,cash
+787,Vegetarian Chili,189,7838.91,692,2031.49,-949.02,loss-making,high,8/12/2021,787,787,Indonesia,,groceries,787,cash
+788,Suede Ankle Booties,562,6453.41,875,1478.22,-1722.07,break-even,high,7/9/2021,788,788,Georgia,,electronics,788,credit card
+789,Outdoor Mosquito Repellent Lantern,777,3257.93,215,3839.92,-3014.7,loss-making,low,8/11/2021,789,789,Indonesia,,clothing,789,online payment
+790,Cereal Dispenser with Portion Control,716,8326.01,562,86.83,2316.31,break-even,medium,5/7/2021,790,790,Belarus,,electronics,790,online payment
+791,Crispy Potato Tots,165,8281.76,412,4430.84,-2082.14,loss-making,medium,9/26/2021,791,791,Ireland,F93,clothing,791,credit card
+792,Honey Mustard Dip,400,7291.53,497,4898.62,-4598.59,loss-making,low,4/30/2021,792,792,China,,groceries,792,online payment
+793,Portable Speaker Stand,457,243.79,443,3192.34,-3557.24,break-even,medium,4/18/2021,793,793,Russia,366609,groceries,793,online payment
+794,Roasted Garlic Pasta Sauce,739,2287.91,274,4015.65,1052.86,break-even,medium,5/16/2021,794,794,Russia,453259,clothing,794,credit card
+795,Pet Water Fountain,806,6368.29,148,4605.84,-3554.19,loss-making,high,4/20/2021,795,795,Brazil,37950-000,groceries,795,credit card
+796,Whole Grain Cereal,756,6852.01,833,3007.69,660.35,loss-making,high,10/29/2021,796,796,Indonesia,,groceries,796,credit card
+797,Sporty Cap,146,3351.21,438,623.05,3527.57,profitable,medium,6/19/2021,797,797,Russia,141860,electronics,797,credit card
+798,Smartwatch,78,8048.5,359,1456.11,-3627.86,profitable,high,8/4/2021,798,798,China,,clothing,798,credit card
+799,Wireless Game Controller,582,4939.79,675,1199.52,-4473.14,profitable,high,10/21/2021,799,799,Philippines,3523,clothing,799,credit card
+800,Field Journal,876,1822.29,528,-160.35,-1168.04,break-even,high,1/29/2021,800,800,China,,groceries,800,online payment
+801,Dark Chocolate Raisins,415,5979.22,931,3626.41,2961.49,profitable,low,5/21/2021,801,801,Poland,86-031,electronics,801,online payment
+802,Pork Tenderloin,463,9402.27,285,610.33,216.37,profitable,low,2/23/2021,802,802,Pakistan,39100,clothing,802,cash
+803,Vintage Button-Down Shirt,283,371.89,806,132.37,-3428.19,break-even,high,11/6/2021,803,803,Honduras,,electronics,803,cash
+804,Nutty Trail Mix,836,9301.81,332,-14.93,-726.0,profitable,high,6/14/2021,804,804,Indonesia,,clothing,804,credit card
+805,Sooji (Semolina),145,4775.82,746,4990.37,-2504.89,profitable,medium,8/27/2021,805,805,China,,groceries,805,credit card
+806,Fashionable Scarves Set,481,4540.69,1000,4444.95,324.55,loss-making,high,10/30/2021,806,806,China,,groceries,806,online payment
+807,Pesto Genovese,878,9913.02,261,12.39,-4798.86,profitable,low,10/21/2021,807,807,China,,electronics,807,cash
+808,Adjustable Laptop Desk,104,1622.95,163,1407.27,-773.08,profitable,high,11/3/2021,808,808,Indonesia,,groceries,808,online payment
+809,Oversized Denim Shirt,438,8979.22,188,1507.51,-4406.58,profitable,low,7/7/2021,809,809,Indonesia,,groceries,809,credit card
+810,Coconut Cream Pie,816,3629.82,203,1704.67,1082.17,break-even,high,12/21/2021,810,810,China,,clothing,810,credit card
+811,Flavored Instant Oatmeal,198,702.55,306,-855.59,-3095.87,profitable,low,7/5/2021,811,811,Russia,446849,clothing,811,credit card
+812,Fall-Themed Table Runner,877,5279.77,829,1493.89,-8.85,profitable,medium,1/27/2021,812,812,Botswana,,electronics,812,cash
+813,Chili Lime Seasoning,830,9764.06,506,2237.39,1320.7,profitable,high,5/27/2021,813,813,Guatemala,13007,groceries,813,credit card
+814,Maple Cinnamon Granola Bars,601,2310.2,453,3930.33,-1408.59,profitable,low,10/6/2021,814,814,China,,electronics,814,online payment
+815,Rechargeable Electric Toothbrush,556,5268.85,160,-845.93,2541.46,break-even,low,1/24/2021,815,815,Poland,26-070,groceries,815,online payment
+816,Personalized Cutting Board,123,6641.0,993,454.06,2720.39,profitable,low,5/11/2021,816,816,Japan,789-1301,clothing,816,online payment
+817,Creamy Coleslaw Mix,341,4012.14,660,2199.26,1989.0,profitable,high,5/26/2021,817,817,Slovenia,3325,clothing,817,cash
+818,Pet Carrier,202,7780.66,165,442.67,161.0,break-even,low,12/16/2021,818,818,France,75434 CEDEX 09,electronics,818,credit card
+819,Sculpting Kit,355,9425.83,299,-682.49,252.35,break-even,low,9/22/2021,819,819,Indonesia,,electronics,819,credit card
+820,Ranch Dressing,536,173.34,184,-342.49,3297.38,loss-making,low,2/27/2021,820,820,Indonesia,,groceries,820,cash
+821,Vintage Graphic Tee,737,3694.13,585,1224.38,1761.11,loss-making,medium,5/8/2021,821,821,China,,clothing,821,cash
+822,Folding Exercise Bike,12,6563.38,953,2429.15,-1227.22,loss-making,high,4/10/2021,822,822,Serbia,,electronics,822,online payment
+823,Applewood Smoked Bacon,684,6980.04,37,2900.1,-1360.7,profitable,medium,10/5/2021,823,823,Burundi,,clothing,823,credit card
+824,Tahini,493,4759.79,121,3653.58,-4533.18,break-even,high,12/11/2021,824,824,Philippines,1682,electronics,824,online payment
+825,Creamy Coleslaw Mix,385,2262.58,754,3692.84,-4216.71,profitable,high,10/5/2021,825,825,Kosovo,,clothing,825,online payment
+826,Instant Pot,816,6579.36,499,1416.18,-2898.52,profitable,high,5/11/2021,826,826,Portugal,4600-661,electronics,826,online payment
+827,Pasta Portion Control Measure,238,2441.67,623,-933.69,-318.27,break-even,low,4/12/2021,827,827,Indonesia,,groceries,827,cash
+828,Sweet Chili Sauce,771,2254.51,861,-337.62,4051.46,loss-making,high,4/12/2021,828,828,Indonesia,,electronics,828,online payment
+829,Noise Cancelling Ear Muffs,887,4808.06,639,-398.45,-454.51,loss-making,high,10/1/2021,829,829,Peru,,electronics,829,cash
+830,Herbed Chicken Breast,350,3795.31,361,2142.36,2885.95,profitable,medium,12/1/2021,830,830,Brazil,38600-000,groceries,830,credit card
+831,Induction Cooktop,634,3905.32,479,617.14,-2673.12,profitable,high,12/10/2021,831,831,China,,groceries,831,online payment
+832,Caraway Rye Bread,640,1634.32,202,-306.66,4615.04,profitable,low,4/3/2021,832,832,China,,clothing,832,credit card
+833,Laptop Stand,929,9988.18,176,-81.6,-2951.59,profitable,medium,10/5/2021,833,833,United States,75210,groceries,833,cash
+834,LED Strip Lights Kit,681,9387.91,892,1847.77,-4297.1,loss-making,low,10/6/2021,834,834,China,,groceries,834,cash
+835,Pet Grooming Gloves,250,497.31,20,2904.5,1352.24,profitable,high,3/2/2021,835,835,Senegal,,electronics,835,credit card
+836,Baked Mac and Cheese,968,5117.21,201,173.69,-1858.21,loss-making,high,9/16/2021,836,836,Venezuela,,electronics,836,cash
+837,Spicy Thai Chili Sauce,501,6084.56,278,673.74,-4965.41,loss-making,medium,12/3/2021,837,837,American Samoa,96799,groceries,837,online payment
+838,Portable Speaker Stand,733,1339.01,353,1961.38,-1556.95,profitable,medium,12/2/2021,838,838,Philippines,5105,electronics,838,cash
+839,Asian Salad Mix,748,4229.28,640,3187.2,-4424.0,loss-making,medium,2/8/2021,839,839,Bulgaria,5145,clothing,839,credit card
+840,Buttermilk Pancakes,17,411.89,507,-257.58,-1151.83,loss-making,medium,1/10/2021,840,840,Haiti,,groceries,840,online payment
+841,Bamboo Cutting Board,421,2013.23,765,3785.32,-481.33,break-even,low,9/17/2021,841,841,United States,06510,electronics,841,cash
+842,Window Bird Feeder,119,1840.35,407,806.04,-3448.7,profitable,low,1/24/2021,842,842,Japan,999-3776,electronics,842,cash
+843,Red Lentils,588,1148.83,591,3924.14,-1311.39,profitable,medium,5/6/2021,843,843,Czech Republic,373 82,groceries,843,credit card
+844,Apple Cinnamon Instant Oatmeal,943,4000.96,467,1650.05,-4289.27,profitable,high,4/23/2021,844,844,Nepal,,clothing,844,credit card
+845,Chickpea Snack Mix,885,9577.59,901,3599.08,1170.28,break-even,high,11/22/2021,845,845,Burkina Faso,,clothing,845,credit card
+846,Cable Knit Cardigan,705,587.01,473,-802.59,-4776.63,loss-making,low,4/26/2021,846,846,Brazil,48880-000,electronics,846,cash
+847,Portable Laptop Table,721,5698.14,959,1862.8,1820.41,profitable,high,3/12/2021,847,847,Indonesia,,clothing,847,online payment
+848,Cajun Seasoning,113,2912.8,919,1104.11,-1380.55,loss-making,low,5/11/2021,848,848,Russia,141309,clothing,848,cash
+849,Gardening Tools Set,674,5676.7,543,3552.42,-4051.39,loss-making,low,11/2/2021,849,849,Yemen,,electronics,849,credit card
+850,Foldable Picnic Table,834,7511.5,373,1839.13,-3.45,profitable,high,4/8/2021,850,850,China,,groceries,850,online payment
+851,Oversized Denim Shirt,71,6179.04,998,2962.25,-283.68,break-even,medium,4/3/2021,851,851,Nigeria,,electronics,851,online payment
+852,Hydration Backpack,501,8823.65,343,677.16,2943.5,profitable,high,11/28/2021,852,852,China,,clothing,852,credit card
+853,Lentil Vegetable Stew,564,9690.93,60,3991.42,-2791.37,loss-making,low,12/3/2021,853,853,Ethiopia,,electronics,853,online payment
+854,Tabletop Fire Pit,831,8349.68,545,4858.86,3311.24,loss-making,medium,12/27/2021,854,854,France,58017 CEDEX,electronics,854,credit card
+855,Blueberry Chia Jam,629,9938.42,927,3787.64,-2165.0,break-even,high,11/30/2021,855,855,Russia,140074,electronics,855,cash
+856,Dried Apricots,847,1612.68,71,1715.32,382.68,break-even,medium,4/24/2021,856,856,Poland,84-240,groceries,856,cash
+857,Garden Vegetable Chips,553,2957.05,67,4282.83,1612.75,loss-making,low,1/9/2021,857,857,Mexico,33980,clothing,857,credit card
+858,Buffalo Cauliflower Bites,16,1851.93,783,-675.71,-27.42,profitable,high,3/5/2021,858,858,Mexico,33856,groceries,858,credit card
+859,Skincare Set,217,4073.38,971,4764.72,-3014.02,profitable,low,3/8/2021,859,859,Israel,,groceries,859,cash
+860,Puzzle 3D Model Kit,211,4122.33,227,4660.31,3694.24,profitable,high,8/7/2021,860,860,Bangladesh,7903,electronics,860,cash
+861,Zucchini Noodle Pasta,279,2600.34,349,3133.35,2525.62,profitable,low,12/10/2021,861,861,Poland,87-220,electronics,861,credit card
+862,Fettuccine Alfredo Dinner Kit,107,4107.97,917,4518.44,1225.41,profitable,high,8/13/2021,862,862,China,,electronics,862,credit card
+863,Apple Cinnamon Instant Oatmeal,485,1090.71,969,2058.92,-2569.69,break-even,medium,5/5/2021,863,863,Egypt,,groceries,863,online payment
+864,Coconut Chia Seed Pudding,392,9881.7,985,1408.33,4611.33,profitable,medium,1/7/2021,864,864,Indonesia,,clothing,864,credit card
+865,Rustic Wooden Picture Frame,702,4616.2,125,1614.13,-2359.37,break-even,low,3/13/2021,865,865,China,,clothing,865,credit card
+866,Chocolate Coconut Granola,969,9098.86,173,2500.62,4334.12,profitable,medium,8/29/2021,866,866,Poland,63-642,groceries,866,online payment
+867,Pasta (Linguine),599,192.36,867,4760.11,1666.53,break-even,low,8/13/2021,867,867,Portugal,2350-259,clothing,867,online payment
+868,Greek Yogurt,486,4173.82,836,1980.48,-89.1,break-even,high,12/9/2021,868,868,Portugal,7630-125,clothing,868,cash
+869,Multi-Function Smartphone Holder,425,278.89,348,3541.58,2451.45,break-even,medium,2/19/2021,869,869,South Korea,,clothing,869,credit card
+870,Casual Cropped Sweater,369,3078.28,413,422.72,1781.4,break-even,high,2/21/2021,870,870,Indonesia,,electronics,870,credit card
+871,Lemon Garlic Shrimp,625,8525.16,922,2618.96,1244.21,break-even,low,6/29/2021,871,871,Bosnia and Herzegovina,,electronics,871,cash
+872,Sliced Olives,563,6013.97,688,885.78,3584.74,loss-making,medium,6/4/2021,872,872,China,,groceries,872,credit card
+873,Travel Mug with Leak-Proof Lid,41,6894.06,195,-192.57,-1269.36,loss-making,high,5/24/2021,873,873,Indonesia,,electronics,873,cash
+874,Basil Lemonade,746,9051.53,868,1884.06,2023.17,break-even,medium,3/25/2021,874,874,Iran,,groceries,874,cash
+875,Berries Medley,865,1410.98,906,4030.9,-1199.23,profitable,medium,9/12/2021,875,875,China,,groceries,875,online payment
+876,Tailored Dress Pants,655,1584.01,982,-999.37,-4510.17,profitable,medium,4/9/2021,876,876,China,,clothing,876,online payment
+877,Organic Coconut Sugar,101,2744.72,35,1548.11,-599.77,break-even,low,4/20/2021,877,877,Guatemala,12009,groceries,877,online payment
+878,Digital Food Thermometer,809,1208.72,162,3836.63,-4529.18,profitable,medium,10/5/2021,878,878,Russia,309534,electronics,878,online payment
+879,Digital Kitchen Timer,123,5288.58,585,3607.41,3780.66,break-even,high,6/9/2021,879,879,China,,groceries,879,credit card
+880,Portable Air Compressor,301,2957.66,465,577.5,-27.74,profitable,high,2/28/2021,880,880,Kazakhstan,,electronics,880,cash
+881,Puffer Winter Coat,228,1041.43,147,1385.51,-2682.09,profitable,low,7/6/2021,881,881,Ecuador,,electronics,881,online payment
+882,Glass Tea Pot,913,4499.52,999,3841.5,980.0,break-even,medium,7/16/2021,882,882,Portugal,3720-029,groceries,882,credit card
+883,Miso Soup Mix,859,638.86,767,1626.23,2048.94,break-even,low,1/3/2021,883,883,France,92174 CEDEX,electronics,883,cash
+884,Grapes (red),676,2289.23,46,4007.65,1236.43,loss-making,low,7/17/2021,884,884,Czech Republic,507 43,groceries,884,online payment
+885,Electric Can Opener,680,5317.5,11,918.15,4348.67,break-even,low,6/8/2021,885,885,Thailand,42000,groceries,885,credit card
+886,Surimi Crab Sticks,229,4035.06,703,3034.61,-2266.1,loss-making,low,6/18/2021,886,886,Indonesia,,groceries,886,cash
+887,Outdoor Inflatable Pool,994,1212.89,51,1845.08,4643.85,break-even,high,10/8/2021,887,887,China,,clothing,887,online payment
+888,Strawberry Banana Smoothie Pack,550,6372.55,888,-172.94,3925.81,loss-making,medium,4/11/2021,888,888,Indonesia,,clothing,888,cash
+889,Silicone Ice Cube Tray,146,3865.62,998,3242.49,-2730.28,profitable,low,4/28/2021,889,889,Russia,303773,groceries,889,online payment
+890,Nordic Berry Smoothie,526,7071.82,49,-707.64,3016.32,loss-making,medium,7/25/2021,890,890,Indonesia,,electronics,890,cash
+891,Organic Whole Wheat Flour,506,9904.97,490,1211.68,3362.59,profitable,high,5/10/2021,891,891,China,,groceries,891,cash
+892,Collapsible Pet Dog Bowl,432,9445.48,172,-206.39,-1767.49,loss-making,low,10/11/2021,892,892,Brazil,35740-000,electronics,892,cash
+893,Pineapple Coconut Bars,307,7617.15,138,-690.92,1572.96,profitable,high,5/4/2021,893,893,United States,68117,groceries,893,cash
+894,Vanilla Almond Granola,177,9037.84,277,4320.86,2526.95,loss-making,medium,10/12/2021,894,894,Argentina,9017,groceries,894,credit card
+895,Inflatable Paddle Board,430,4524.21,719,2110.44,-1746.38,break-even,high,3/14/2021,895,895,Burkina Faso,,clothing,895,cash
+896,Chocolate Dipped Fruit,593,7241.28,831,-818.38,-1842.66,loss-making,low,11/11/2021,896,896,Brazil,37700-000,clothing,896,cash
+897,Portable Phone Mug Holder,754,8582.27,92,1329.76,1248.4,break-even,low,8/21/2021,897,897,Argentina,4618,groceries,897,credit card
+898,Brown Sugar,475,9663.55,3,4170.25,1102.03,profitable,low,3/13/2021,898,898,Kuwait,,electronics,898,cash
+899,Chic Jumpsuit,358,7128.39,535,3728.98,-1580.41,break-even,low,3/16/2021,899,899,Russia,155051,groceries,899,cash
+900,Savory Oats,612,7019.6,396,-670.38,1320.47,break-even,high,11/21/2021,900,900,Philippines,3604,clothing,900,cash
+901,Crispy Rice Treats,152,57.02,32,1520.91,2851.38,break-even,medium,4/17/2021,901,901,Philippines,4325,electronics,901,online payment
+902,Coffee Capsule Dispenser,966,9275.66,382,4630.79,-2836.91,loss-making,high,11/19/2021,902,902,Taiwan,,electronics,902,online payment
+903,Sooji (Semolina),394,3634.67,621,2412.85,-1427.02,break-even,medium,5/14/2021,903,903,China,,groceries,903,cash
+904,Spicy Kimchi,105,8723.12,914,1614.61,-905.51,break-even,medium,10/25/2021,904,904,Kenya,,electronics,904,credit card
+905,Mesh Sports Leggings,342,4687.23,535,-696.93,-4544.52,profitable,low,4/21/2021,905,905,Argentina,2600,groceries,905,online payment
+906,Watercolor Set,162,1398.96,301,3245.91,2596.54,profitable,medium,4/20/2021,906,906,Indonesia,,groceries,906,cash
+907,Wireless Earbud Silicone Covers,957,3622.9,938,2001.71,4132.23,break-even,medium,6/22/2021,907,907,China,,clothing,907,cash
+908,Smartphone Tripod with Bluetooth Remote,983,7982.75,438,2605.87,301.77,loss-making,medium,9/29/2021,908,908,China,,electronics,908,credit card
+909,Dark Chocolate Raisins,702,3494.76,733,4494.11,241.59,break-even,high,10/19/2021,909,909,New Zealand,4346,electronics,909,cash
+910,Electric Rice Cooker,974,3390.09,503,-861.8,-3060.52,loss-making,high,9/5/2021,910,910,Canada,L3K,electronics,910,online payment
+911,Jump Rope with Counter,328,4114.38,321,2507.33,3620.62,loss-making,low,2/6/2021,911,911,United States,27710,groceries,911,online payment
+912,Portable Charcoal Grill,987,2157.72,475,3036.49,-286.94,break-even,medium,3/22/2021,912,912,Sweden,135 55,electronics,912,cash
+913,Ground Turkey,373,2879.35,141,990.68,2315.23,profitable,low,1/16/2021,913,913,Brazil,75620-000,clothing,913,cash
+914,Foot Massager Machine,620,4177.98,898,4036.27,-4849.97,break-even,low,4/15/2021,914,914,China,,groceries,914,online payment
+915,Chipotle Black Bean Burger,952,5649.97,958,4954.7,3333.12,loss-making,high,2/9/2021,915,915,Czech Republic,671 76,groceries,915,online payment
+916,Silicone Cooking Utensils Set,111,728.31,375,3850.73,-1717.72,break-even,low,8/16/2021,916,916,France,59034 CEDEX,clothing,916,cash
+917,Tea Infuser,467,3412.94,927,915.37,-398.97,break-even,high,9/10/2021,917,917,Tunisia,,electronics,917,credit card
+918,Two-Tier Fruit Basket,918,7349.88,496,-624.54,384.75,loss-making,high,7/21/2021,918,918,Kenya,,groceries,918,cash
+919,Foam Muscle Roller,379,7619.06,890,140.66,1594.85,break-even,high,1/22/2021,919,919,Malaysia,48100,groceries,919,cash
+920,Noise-Canceling Headphones,360,9133.99,319,562.49,80.86,profitable,high,12/1/2021,920,920,China,,groceries,920,online payment
+921,Scent Diffuser Oil,925,7646.29,276,2934.36,-596.89,break-even,low,12/2/2021,921,921,United States,98195,electronics,921,cash
+922,Rain Jacket,821,4161.7,663,2248.78,-1340.02,profitable,high,9/3/2021,922,922,China,,electronics,922,credit card
+923,Instant Read Meat Thermometer,440,9396.2,912,1421.37,934.33,loss-making,medium,6/3/2021,923,923,Philippines,4211,clothing,923,cash
+924,Self-Cleaning Cat Litter Box,917,2532.89,152,4182.46,-51.75,loss-making,medium,3/30/2021,924,924,El Salvador,,groceries,924,cash
+925,Poppy Seed Dressing,356,2416.12,691,3580.7,-3166.44,break-even,medium,1/20/2021,925,925,United States,35895,groceries,925,credit card
+926,Electric Screwdriver,571,8663.79,884,471.14,-3010.66,break-even,low,11/23/2021,926,926,Finland,63301,clothing,926,cash
+927,Personalized Keychain,512,6288.99,546,2062.44,1358.12,break-even,low,12/12/2021,927,927,Philippines,5201,electronics,927,online payment
+928,Herbed Chicken Breast,596,5568.68,845,4950.36,-1188.8,loss-making,low,4/15/2021,928,928,China,,clothing,928,credit card
+929,Ice Cube Tray with Lid,812,6000.26,103,-290.79,4718.72,profitable,high,12/1/2021,929,929,Mongolia,,electronics,929,online payment
+930,Baby Monitor,499,3473.3,505,4017.27,-2849.46,loss-making,medium,8/16/2021,930,930,Albania,,electronics,930,cash
+931,Reusable Coffee Filter,140,1458.98,410,2840.96,948.68,profitable,low,4/17/2021,931,931,Russia,632735,clothing,931,credit card
+932,Digital Food Thermometer,380,677.77,414,3314.71,-866.18,profitable,low,1/14/2021,932,932,Peru,,electronics,932,cash
+933,Beef Tacos,179,5256.12,798,3689.7,-2612.44,break-even,low,7/27/2021,933,933,Kazakhstan,,electronics,933,cash
+934,Wireless Car Charger,85,5463.05,788,3689.4,-2894.18,profitable,medium,4/23/2021,934,934,China,,electronics,934,credit card
+935,Floral Wrap Top,693,3705.11,646,4781.62,-972.11,break-even,high,4/24/2021,935,935,United States,43220,electronics,935,online payment
+936,Carrot and Celery Sticks,241,4488.1,518,4472.76,1120.2,break-even,low,3/29/2021,936,936,Philippines,6130,electronics,936,credit card
+937,Lemon Garlic Marinade,7,9169.21,584,-689.39,-912.38,loss-making,medium,9/8/2021,937,937,China,,groceries,937,online payment
+938,Air Fryer Oven,566,7010.81,809,3134.04,3519.83,break-even,low,6/9/2021,938,938,Honduras,,electronics,938,online payment
+939,Throw Pillow Covers,18,7434.85,426,1261.76,2652.0,loss-making,medium,9/11/2021,939,939,Indonesia,,electronics,939,cash
+940,Ergonomic Mouse Pad with Wrist Support,885,6068.64,723,2817.32,3336.29,break-even,low,12/13/2021,940,940,Portugal,4745-375,clothing,940,credit card
+941,Savory Breakfast Sausage,221,1905.14,404,-939.96,470.07,loss-making,low,1/10/2021,941,941,Indonesia,,groceries,941,online payment
+942,Foot Spa Bath Massager,52,2049.7,856,3684.69,3731.17,profitable,medium,10/16/2021,942,942,Indonesia,,clothing,942,cash
+943,Fruit & Nut Trail Mix,206,383.04,969,1701.67,2324.69,loss-making,medium,3/14/2021,943,943,China,,electronics,943,cash
+944,Black Bean Spaghetti,9,9493.63,644,97.2,1129.71,break-even,medium,9/24/2021,944,944,Croatia,10436,clothing,944,cash
+945,Compact Folding Table,469,4284.18,321,2952.17,-1841.85,break-even,high,7/12/2021,945,945,Russia,403538,electronics,945,cash
+946,LED Desk Lamp,737,9399.82,846,-916.83,2275.33,profitable,high,11/10/2021,946,946,Indonesia,,electronics,946,cash
+947,Telescope,459,9982.61,322,1236.38,-1369.01,loss-making,low,5/20/2021,947,947,Sweden,131 22,electronics,947,credit card
+948,Peanut Butter Pretzel Nuggets,575,3493.64,150,4255.34,1217.52,loss-making,high,2/3/2021,948,948,China,,electronics,948,online payment
+949,Self-Watering Planters,249,4325.57,651,1083.37,-3578.08,profitable,high,10/30/2021,949,949,Lithuania,67001,electronics,949,online payment
+950,Memory Card,66,7700.93,845,-90.29,-4375.8,break-even,low,4/11/2021,950,950,Portugal,2635-483,clothing,950,cash
+951,Fitness Jump Box,989,6814.84,59,2828.65,1110.68,loss-making,medium,9/12/2021,951,951,China,,groceries,951,credit card
+952,Thai Peanut Dressing,627,1921.57,205,4286.06,1370.96,break-even,high,5/29/2021,952,952,Brazil,13650-000,clothing,952,credit card
+953,Chocolate Covered Pretzels,974,6299.72,895,2847.33,-4532.96,profitable,low,7/16/2021,953,953,China,,groceries,953,online payment
+954,Compact Digital Camera,836,8191.73,489,3351.98,-1079.64,break-even,high,5/27/2021,954,954,France,26204 CEDEX,electronics,954,credit card
+955,Mango Chia Pudding,121,5889.59,264,-852.53,3795.19,profitable,medium,1/19/2021,955,955,China,,clothing,955,cash
+956,Sunglasses Case,764,5618.69,262,-700.99,-898.48,break-even,medium,3/12/2021,956,956,China,,electronics,956,credit card
+957,Caramel Apple Chips,703,7768.63,241,225.7,3384.14,profitable,high,6/15/2021,957,957,China,,groceries,957,online payment
+958,LED Christmas Lights,401,8738.87,683,4904.95,3366.67,loss-making,low,6/26/2021,958,958,China,,groceries,958,credit card
+959,Frozen Mixed Vegetables,563,1222.27,98,1300.06,4800.91,profitable,high,8/30/2021,959,959,Indonesia,,groceries,959,credit card
+960,Travel Pillow with Memory Foam,375,5365.56,348,4289.72,-2188.23,profitable,low,4/24/2021,960,960,Indonesia,,clothing,960,credit card
+961,Herb-Infused Olive Oil,275,394.38,864,3799.2,-2754.46,profitable,high,12/25/2021,961,961,China,,electronics,961,cash
+962,Pet Grooming Brush,957,1877.08,665,2630.64,2362.22,break-even,high,8/10/2021,962,962,Indonesia,,groceries,962,online payment
+963,Mini Pretzels,715,1140.87,184,-131.42,988.26,loss-making,high,9/18/2021,963,963,Portugal,7700-015,clothing,963,credit card
+964,Vintage Graphic Tee,321,3172.86,517,1344.1,-1381.64,break-even,high,6/2/2021,964,964,Indonesia,,electronics,964,credit card
+965,Skincare Set,463,4782.04,123,-191.96,-881.5,loss-making,high,2/5/2021,965,965,Portugal,4860-352,groceries,965,cash
+966,Spinach Artichoke Dip,539,3971.68,824,-339.86,-2743.36,profitable,medium,8/5/2021,966,966,Sweden,673 31,electronics,966,credit card
+967,Chopping Board,719,6890.47,172,2995.58,2488.54,break-even,low,2/25/2021,967,967,Poland,38-524,groceries,967,cash
+968,Chocolate Mint Thins,635,2847.08,995,2769.88,1133.3,break-even,low,3/8/2021,968,968,Indonesia,,electronics,968,cash
+969,Wall-Mounted Organizer,519,3884.62,171,2637.26,1197.43,break-even,high,2/7/2021,969,969,Ivory Coast,,groceries,969,cash
+970,Hummus Variety Pack,823,5931.23,708,1886.94,-640.61,profitable,low,5/29/2021,970,970,Greece,,groceries,970,cash
+971,Magic Color-Changing Mug,640,598.89,800,4681.34,1406.52,profitable,high,8/15/2021,971,971,South Korea,,electronics,971,cash
+972,Sports Water Bottle with Infuser,229,92.96,151,-166.18,-352.31,break-even,low,8/17/2021,972,972,Indonesia,,electronics,972,credit card
+973,Hiking Boots,98,222.31,685,1614.45,-1953.65,loss-making,low,12/6/2021,973,973,France,54516 CEDEX,electronics,973,cash
+974,Personal Security Alarm Keychain,341,8296.23,453,4235.49,3697.23,profitable,high,7/20/2021,974,974,Brazil,44380-000,groceries,974,cash
+975,Chocolate Peanut Butter Cups,891,8862.8,622,4782.69,-2048.62,profitable,low,9/8/2021,975,975,France,94129 CEDEX,groceries,975,cash
+976,Vegan chocolate chip cookies,480,7454.17,534,-937.4,1051.29,loss-making,medium,7/14/2021,976,976,China,,groceries,976,credit card
+977,Honey Ginger Tea,6,2807.62,837,874.31,2057.46,profitable,low,9/20/2021,977,977,China,,groceries,977,cash
+978,Sour Cream,956,4536.8,918,4681.69,-4456.41,loss-making,medium,1/30/2021,978,978,Ukraine,,groceries,978,cash
+979,Garlic and Herb Rub,706,2716.83,940,2561.7,639.24,break-even,high,7/25/2021,979,979,Honduras,,electronics,979,online payment
+980,Silicone Baking Mat,41,4156.15,818,642.41,-1899.61,break-even,low,6/24/2021,980,980,China,,clothing,980,credit card
+981,Coconut Curry Sauce,453,6423.49,942,4993.83,-4634.28,profitable,medium,5/28/2021,981,981,United States,70505,electronics,981,online payment
+982,Honey,599,5126.91,41,-227.54,2951.64,loss-making,low,8/6/2021,982,982,Iran,,electronics,982,credit card
+983,Tomato Basil Pasta Sauce,578,161.73,884,3378.36,-3498.26,break-even,low,3/29/2021,983,983,China,,clothing,983,online payment
+984,Suede Ankle Booties,1,7842.64,992,-591.84,1567.19,profitable,high,6/22/2021,984,984,Portugal,3830-017,groceries,984,online payment
+985,Sun-Dried Tomatoes,505,8640.35,812,4665.91,1186.52,profitable,medium,4/29/2021,985,985,Indonesia,,electronics,985,online payment
+986,Tea Set with Infuser,315,6095.88,147,-104.27,-2709.58,loss-making,medium,3/2/2021,986,986,Indonesia,,clothing,986,credit card
+987,Stylish Wireless Earbuds,53,2797.37,1000,4554.74,-1436.04,loss-making,low,11/4/2021,987,987,France,59339 CEDEX,groceries,987,credit card
+988,Travel Pillow,109,4140.88,438,-647.89,1646.01,loss-making,medium,12/6/2021,988,988,China,,electronics,988,cash
+989,Fashionable Scarves Set,5,1920.51,936,2218.99,-4753.24,profitable,medium,9/24/2021,989,989,Philippines,2405,electronics,989,credit card
+990,Mint Chocolate Chip Ice Cream,360,351.62,25,4830.32,-1887.25,break-even,high,7/23/2021,990,990,South Africa,7947,electronics,990,credit card
+991,Balsamic Glazed Brussels Sprouts,89,7889.89,444,635.35,-2798.92,profitable,medium,12/20/2021,991,991,China,,electronics,991,credit card
+992,Organic Ramen Noodles,833,3003.53,423,1455.87,4717.77,loss-making,medium,5/1/2021,992,992,Poland,66-436,electronics,992,cash
+993,Trendy Bomber Jacket,203,4288.6,252,4642.78,1737.07,profitable,high,4/1/2021,993,993,Indonesia,,clothing,993,online payment
+994,Whole Grain Hamburger Buns,563,5871.7,515,1997.04,-3524.45,break-even,medium,2/27/2021,994,994,Luxembourg,L-9170,clothing,994,online payment
+995,Beef Taco Skillet,833,3570.37,763,2313.4,-1720.47,break-even,low,8/24/2021,995,995,Micronesia,,groceries,995,credit card
+996,Pineapple Rings,45,390.84,885,2343.83,122.61,loss-making,low,5/7/2021,996,996,Poland,43-385,clothing,996,cash
+997,Kitchen Knife Sharpening System,936,4416.99,95,4078.06,4620.43,loss-making,low,4/25/2021,997,997,Uganda,,clothing,997,credit card
+998,Underwater Camera,971,9639.03,997,4096.98,2855.21,loss-making,high,3/30/2021,998,998,Mali,,clothing,998,online payment
+999,Chickpea Pancakes,758,9629.04,883,1817.22,-3480.08,break-even,high,5/14/2021,999,999,South Korea,,groceries,999,cash
+1000,Vanilla Bean Greek Yogurt,594,1175.23,320,-66.41,1523.79,loss-making,medium,10/4/2021,1000,1000,Portugal,9555-145,groceries,1000,cash
